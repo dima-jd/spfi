@@ -1,0 +1,14 @@
+/* Full-viewport reading surface with a comfortable text measure. */
+#reader{position:fixed;inset:0;width:100%;height:100dvh;max-width:none;max-height:none;margin:0;border-radius:0;padding:0 24px 80px;overscroll-behavior:contain}
+#reader::backdrop{background:var(--paper);backdrop-filter:none}
+#reader-content{max-width:780px;margin:auto}
+#reader .close{position:fixed;inset-inline-end:20px;top:18px;float:none;background:var(--paper);border:1px solid var(--line)}
+.reader-toolbar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 0;margin-bottom:48px;border-bottom:1px solid var(--line);font-size:14px}
+.reader-toolbar .language{margin-inline-end:45px}.reader-toolbar .language button[aria-pressed=true]{background:var(--ink);color:white}
+#reader .reader-title{font-size:clamp(32px,4.5vw,56px);line-height:1.08;letter-spacing:-.045em;margin:18px 0 24px}
+#reader .reader-copy{font-size:19px;line-height:1.85}#reader .reader-lead{font-size:22px;color:var(--muted)}
+.story-illustration{margin:32px 0}.story-illustration img{display:block;width:100%;height:auto;border-radius:3px}.story-illustration figcaption{font-size:12px;color:var(--muted);margin-top:8px}
+.section-illustration{display:block;width:100%;height:auto;margin-bottom:22px;border-radius:3px}.learning>.section-illustration{max-height:150px;object-fit:cover}
+@media(max-width:700px){#reader{padding:0 20px 50px}#reader .close{top:17px;inset-inline-end:12px}.reader-toolbar{margin-bottom:28px}.reader-toolbar .language{margin-inline-end:42px}#reader .reader-copy{font-size:18px}#reader .reader-lead{font-size:20px}.desk-label>.section-illustration{max-width:320px}}
+.story-photo{margin:28px 0}.story-photo img{display:block;width:100%;height:auto;max-height:480px;object-fit:cover;aspect-ratio:7/4;border-radius:3px}.story-photo figcaption{font-size:11px;line-height:1.5;color:var(--muted);margin-top:8px}.story-photo figcaption a{text-decoration:underline;text-underline-offset:2px}.photo-lead{margin:0}.photo-lead img{max-height:290px}.photo-section{margin:0 0 20px}.photo-section img{max-height:170px}.photo-thumb{margin:0;min-width:0}.photo-thumb img{height:100px;aspect-ratio:auto}.photo-thumb figcaption{font-size:9px}.learning .photo-section img{max-height:160px}@media(max-width:700px){.photo-thumb img{height:75px}.photo-thumb figcaption{font-size:8px;overflow-wrap:anywhere}.photo-article img{max-height:320px}}
+.subject-alpaca img,.subject-pear img{object-fit:contain;background:#e9ede4}.photo-lead img{background:#e9ede4}

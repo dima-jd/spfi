@@ -1,0 +1,303 @@
+{
+  "alpacas-solar-grazing": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "antora-carbon-heat-storage": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "apollo-lightweight-solar-roof-load": {
+    "section": "innovation-research",
+    "scope": "israel",
+    "groups": [
+      "press"
+    ]
+  },
+  "ashalim-megalim-mirrors-to-steam": {
+    "section": "projects-places",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "australia-solar-panel-recycling-collection": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "bahan-reservoir-two-working-systems": {
+    "section": "projects-places",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "bgu-solar-cells-through-seasons": {
+    "section": "innovation-research",
+    "scope": "israel",
+    "groups": [
+      "trending"
+    ]
+  },
+  "bradfield-biosolar-roof": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "trending"
+    ]
+  },
+  "california-tomatoes-vertical-panels": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "trending"
+    ]
+  },
+  "cmblu-long-duration-storage": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "community-garden-solar-question": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "opinion"
+    ]
+  },
+  "dimona-edf-financial-close": {
+    "section": "projects-places",
+    "scope": "israel",
+    "groups": [
+      "press"
+    ]
+  },
+  "egypt-desert-solar-water-pilot": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "energix-lithuania-hybrid-project-stages": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "energy-security-clean-investment-emissions-2026": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "fresno-earth-mounted-solar": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "government-solar-calculator-guide": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "sponsored"
+    ]
+  },
+  "huawei-idee-2026-grid-forming": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "press"
+    ]
+  },
+  "huji-printing-solar-windows": {
+    "section": "innovation-research",
+    "scope": "israel",
+    "groups": [
+      "trending"
+    ]
+  },
+  "israel-100000-solar-roofs-programme": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "breaking"
+    ]
+  },
+  "israel-2030-renewable-electricity-target": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "breaking"
+    ]
+  },
+  "israel-2035-renewable-policy-consultations": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "opinion"
+    ]
+  },
+  "israel-agricultural-research-institutions-guide": {
+    "section": "innovation-research",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "israel-ai-power-nuclear-solar-system": {
+    "section": "innovation-research",
+    "scope": "israel",
+    "groups": [
+      "opinion"
+    ]
+  },
+  "israel-july-solar-data-window": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "israel-rooftop-solar-government-help": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "breaking"
+    ]
+  },
+  "israel-solar-capacity-2025": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "israel-solar-company-roles": {
+    "section": "companies-services",
+    "scope": "israel",
+    "groups": [
+      "opinion"
+    ]
+  },
+  "ketura-solar-cleaning-service": {
+    "section": "companies-services",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "maale-gilboa-grapes-first-season": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "michigan-solar-grazing-economics": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "pears-under-solar-canopies": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "regace-greenhouses": {
+    "section": "innovation-research",
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "rooftop-tariffs-2027-proposal": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "shade-crops-weather": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "opinion"
+    ]
+  },
+  "shared-roofs-beer-sheva-karmiel": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "solar-growth-grid-bottleneck": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "opinion"
+    ]
+  },
+  "solar-heat-coffee": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "trending"
+    ]
+  },
+  "solar-rooftop-plan-explained-simply": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "sponsored"
+    ]
+  },
+  "space-solar-power-symposium-2026": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "press"
+    ]
+  },
+  "tandem-module-record": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "trending"
+    ]
+  },
+  "tidal-energy-forecast-2031-context": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "press"
+    ]
+  },
+  "vivescia-tse-cooperative-solar": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "trending"
+    ]
+  }
+}

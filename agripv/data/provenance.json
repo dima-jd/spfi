@@ -1,0 +1,60 @@
+{
+  "originalSite": "https://agripv-israel.sadage.chatgpt.site",
+  "reviewedAt": "2026-09-13",
+  "planningSourceLastEditAt": "2026-08-29T10:06:36.550Z",
+  "potentialSnapshot": "solar-potential-2026-09-04-001",
+  "potentialSources": [
+    {
+      "sourceId": "source-govmap-solar-potential-2025",
+      "title": "Solar energy production potential in Israel's built areas",
+      "publisher": "Ministry of Energy and Infrastructure / Survey of Israel",
+      "sourceType": "official_interactive_map",
+      "url": "https://www.govmap.gov.il/sites/energy/index.html?x=219558&y=631558&z=10&map=solar_panels",
+      "accessedAt": "2026-08-31",
+      "dataCurrentTo": "2025",
+      "rightsNote": "Public-space geometry is mirrored from the official GovMap application endpoint with source attribution and the source's non-commercial-use restriction."
+    },
+    {
+      "sourceId": "source-moag-agricultural-parcels-2026",
+      "title": "Agricultural parcels for analysis",
+      "publisher": "Israel Ministry of Agriculture and Food Security",
+      "sourceType": "official_feature_service",
+      "url": "https://moag.maps.arcgis.com/home/item.html?id=7d49dd443df440999a05965dbb005d0a",
+      "accessedAt": "2026-08-31",
+      "rightsNote": "Selected source features are mirrored with their upstream identifiers and update timestamps; screening does not change them into approved sites."
+    },
+    {
+      "sourceId": "source-govmap-industrial-rooftop-aggregate-2026",
+      "title": "Industrial rooftop solar potential by local authority",
+      "publisher": "Israel Ministry of Energy and Infrastructure / Survey of Israel",
+      "sourceType": "official_download_and_boundary_join",
+      "url": "https://www.govmap.gov.il/sites/energy/all_energy_tbl.zip",
+      "accessedAt": "2026-08-31",
+      "rightsNote": "Official authority-level industrial aggregates joined to official jurisdiction boundaries; these are not roof footprints."
+    },
+    {
+      "sourceId": "source-energy-ministry-solar-map-release-2025",
+      "title": "Government solar-potential system launch",
+      "publisher": "Israel Ministry of Energy and Infrastructure",
+      "sourceType": "official_release",
+      "url": "https://www.gov.il/he/pages/news-040225",
+      "publicationDate": "2025-02-04",
+      "accessedAt": "2026-08-31",
+      "rightsNote": "Linked to the publisher; not redistributed."
+    },
+    {
+      "sourceId": "source-govmap-solar-settlement-coverage-2025",
+      "title": "Settlements covered by the high-resolution solar analysis",
+      "publisher": "Israel Ministry of Energy and Infrastructure",
+      "sourceType": "official_spreadsheet",
+      "url": "https://www.gov.il/BlobFolder/guide/israel_re/he/se-220226.xlsx",
+      "accessedAt": "2026-08-31",
+      "rightsNote": "Linked to the publisher; not redistributed."
+    }
+  ],
+  "rightsAndLimits": {
+    "agripv": "Screening shortlist from official agricultural parcel data; not a permit, grid, engineering, agronomic or investment recommendation.",
+    "industrial": "Authority polygons visualize official municipal aggregates and are not industrial-building or roof footprints.",
+    "public": "Survey of Israel copyright; based on estimates and analyses; not for commercial use."
+  }
+}
