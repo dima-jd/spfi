@@ -1,5 +1,7 @@
 import {publicContentIds, publicPages} from './analytics-public-data.js';
 
+import {initClarity, trackClarity} from './clarity.js';
+
 export const measurementId = 'G-GGLLJKXHYX';
 const events = new Set(['article_open','article_read_75','map_open','map_search','map_layer_change','project_open','source_view','share_click','newsletter_signup','correction_submit','contribution_submit','survey_submit','search_no_result','map_error']);
 const choices = {
@@ -30,6 +32,7 @@ function pageParams() {
 
 export function trackEvent(name, params = {}) {
   if (!events.has(name) || typeof window === 'undefined') return;
+  trackClarity(name, sanitizeParams(params));
   try {
     if (typeof window.gtag !== 'function') return;
     window.gtag('event', name, {...sanitizeParams(params), ...pageParams(), send_to: measurementId});
@@ -39,6 +42,7 @@ export function trackEvent(name, params = {}) {
 export function initAnalytics() {
   if (typeof window === 'undefined' || window.__spfiAnalytics) return;
   window.__spfiAnalytics = true;
+  try { initClarity(); } catch { /* Recording blocked; keep GA4 and the app usable. */ }
   window.dataLayer = window.dataLayer || [];
   window.gtag = window.gtag || function(){ window.dataLayer.push(arguments); };
   window.gtag('js', new Date());
