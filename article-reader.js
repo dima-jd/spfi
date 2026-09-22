@@ -1,3 +1,4 @@
+import {trackArticle} from './analytics.js';
 const escape=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const local=(value,lang)=>value?.[lang]??'';
 const safeURL=value=>{
@@ -31,7 +32,8 @@ export function renderArticleBody(article,lang='en'){
  const glossary=terms.size?`<details class="article-glossary"><summary>${lang==='he'?'מונחים בכתבה':'Words in this story'} (${terms.size})</summary><dl>${[...terms.values()].map(x=>`<dt>${escape(local(x.term,lang))}</dt><dd>${escape(local(x.definition,lang))}</dd>`).join('')}</dl></details>`:'';
  return `${terms.size?`<p class="glossary-hint">${lang==='he'?'לחצו על מונח מסומן בקו להסבר קצר.':'Select an underlined term for a short explanation.'}</p>`:''}${figures(0)}${paragraphs.map((p,i)=>`<p>${paragraph(p)}</p>${figures(i+1)}`).join('')}${glossary}`;
 }
-export function bindArticleInteractions(root){
+export function bindArticleInteractions(root, article, language){
+ if(article)trackArticle(root, article, language);
  const close=button=>{button.setAttribute('aria-expanded','false');root.querySelector(`[id="${CSS.escape(button.getAttribute('aria-controls'))}"]`).hidden=true;};
  root.querySelectorAll('.glossary-term').forEach(button=>button.addEventListener('click',()=>{
   const open=button.getAttribute('aria-expanded')==='true';
