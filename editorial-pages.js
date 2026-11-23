@@ -1,11 +1,11 @@
 import {readerPages} from './reader-pages.js';
 export const editorialPages={
  ...readerPages,
- latest:{en:'Latest news',he:'חדשות אחרונות'},
+ latest:{en:'Latest updates',he:'עדכונים אחרונים'},
  opinion:{en:'Opinion and Analysis',he:'דעה וניתוח'},
  sponsored:{en:'Sponsored',he:'תוכן ממומן'},
- press:{en:'Press Release',he:'הודעות לעיתונות'},
- popular:{en:'Most Popular',he:'הכתבות הפופולריות'},
+ press:{en:'Announcements',he:'הודעות רשמיות'},
+ popular:{en:'Editor’s picks',he:'בחירת העורך'},
  learn:{en:'Solar, explained',he:'סולארי, בפשטות'},
  organisations:{en:'Organisations working with solar',he:'ארגונים העוסקים באנרגיה סולארית'},
  about:{en:'About SPFI',he:'אודות SPFI'}
