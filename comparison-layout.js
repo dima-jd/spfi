@@ -8,7 +8,7 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 export function comparisonLayout(stories,metadata,lang){
  const t=x=>x?.[lang]||x?.en||'';
  const bi=(en,he)=>lang==='he'?he:en;
- const card=(s,mode='card')=>`<article class="mag-card ${mode}">${mode==='brief'?'':storyArt(s.id,lang,mode==='lead'?'lead':'section')}<div class="mag-card-copy"><span class="tag">${esc(t(sectionPages[s.topic]))}</span><h3><a href="${articleHref(s.id,lang)}">${esc(t(s.title))}</a></h3>${mode==='brief'?'':`<p>${esc(t(s.excerpt))}</p>`}<div class="story-meta">${esc(t(s.type))}${s.date?` · ${bi('Source dated','תאריך המקור')} ${esc(readableDate(s.date,lang))}`:''}</div></div></article>`;
+ const card=(s,mode='card')=>`<article class="mag-card ${mode}">${mode==='brief'?'':mode==='lead'?storyArt(s.id,lang,'lead',s.topic):storyArt(s.id,lang,'section')}<div class="mag-card-copy"><span class="tag">${esc(t(sectionPages[s.topic]))}</span><h3><a href="${articleHref(s.id,lang)}">${esc(t(s.title))}</a></h3>${mode==='brief'?'':`<p>${esc(t(s.excerpt))}</p>`}<div class="story-meta">${esc(t(s.type))}${s.date?` · ${bi('Source dated','תאריך המקור')} ${esc(readableDate(s.date,lang))}`:''}</div></div></article>`;
  const group=id=>stories.filter(s=>groupsFor(metadata[s.id]).includes(id));
  const latest=[...stories].sort((a,b)=>(b.date||'').localeCompare(a.date||''));
  const head=(id,en,he,note='',link=['latest','opinion','sponsored','press','popular'].includes(id)?editorialHref(id,lang):'')=>`<div class="mag-section-head"><h2 id="${id}-title">${bi(en,he)}</h2>${link?`<a href="${link}">${bi('View all','לכל הכתבות')} ↗</a>`:''}</div>${note?`<p class="mag-note">${note}</p>`:''}`;
