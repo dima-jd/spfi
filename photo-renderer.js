@@ -9,6 +9,8 @@ export function storyArt(id,lang='en',mode='article',fallbackTopic=null){
  const src=photo.src.replace('w=1400',mode==='thumb'?'w=320':mode==='section'?'w=600':'w=1400');
  const note=lang==='he'?'צילום להמחשה; אינו מציג את הפרויקט או המחקר שבכתבה.':'Illustrative photo; not the project or research described.';
  const credit=escape(lang==='he'&&photo.creditHe?photo.creditHe:photo.credit);
- const attribution=photo.sourceUrl?`<a href="${escape(photo.sourceUrl)}" target="_blank" rel="noopener noreferrer">${credit} / Unsplash</a>`:credit;
+ // Unsplash photos credit "Author / Unsplash"; openly licensed photos (e.g. Wikimedia Commons) also name their licence.
+ const licence=photo.platform&&photo.license?(photo.licenseUrl?` · <a href="${escape(photo.licenseUrl)}" target="_blank" rel="noopener noreferrer license">${escape(photo.license)}</a>`:` · ${escape(photo.license)}`):'';
+ const attribution=photo.sourceUrl?`<a href="${escape(photo.sourceUrl)}" target="_blank" rel="noopener noreferrer">${credit} / ${escape(photo.platform||'Unsplash')}</a>${licence}`:credit;
  return `<figure class="story-photo photo-${mode} subject-${key}"><img src="${escape(src)}" ${mode==='article'||mode==='lead'?'fetchpriority="high"':'loading="lazy"'} decoding="async" alt="${alt}" width="1400" height="800"><figcaption>${mode==='thumb'?'':`${note} `}${attribution}</figcaption></figure>`;
 }
