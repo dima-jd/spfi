@@ -93,7 +93,7 @@ export function analyseBuilding(scene, clim, model, inputs = {}) {
   const verdict = !options.length ? 'no-surface'
     : !R ? (options.every(o => o.blockers.length) ? 'blocked' : 'not-viable')
       : R[0].npv > 0 ? 'promising' : R[1].npv > 0 ? 'marginal' : 'not-viable';
-  // Facade verdict: the product question. Judged on the best unblocked facade option on its own.
+  // Facade verdict: the research question. Judged on the best unblocked facade option on its own.
   const facadeBest = best(options.filter(o => o.group !== 'roof' && !o.blockers.length), o => c(o).npv);
   const facadeVerdict = !options.some(o => o.group !== 'roof') ? 'no-surface'
     : !facadeBest ? 'blocked'

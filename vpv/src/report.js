@@ -64,7 +64,7 @@ ol li{margin:4px 0}.note{font-size:12px;color:var(--muted)}
 @media(max-width:700px){.kpis{grid-template-columns:1fr 1fr}main{padding:20px 16px}table{font-size:11.5px}}
 @media print{main{padding:0}h2{break-after:avoid}tr{break-inside:avoid}}
 </style></head><body><main>
-<div class="eyebrow">VPV · Vertical Solar · Building Solar Assessment</div>
+<div class="eyebrow">SPFI research · VPV Vertical Solar · Building solar screening</div>
 <h1>${esc(r.scene.name)}</h1>
 <div class="meta">${esc([r.scene.nameHe, r.scene.city].filter(Boolean).join(' · '))} · ${esc(r.inputs.useLabel)} · ${int(t.heightM)} m${t.levels ? `, ${t.levels} storeys` : ''} · OSM <a href="https://www.openstreetmap.org/${esc(t.osm)}">${esc(t.osm)}</a> · report ${esc(date)}</div>
 <div class="verdict v-${r.facadeVerdict}">Facades: ${esc(VERDICT[r.facadeVerdict])}</div>
@@ -102,7 +102,7 @@ ${blockerTexts.length ? `<div class="blockers"><b>Critical issues: these options
 ${Object.values(model.technologies).map(x => `<tr><td>${esc(x.label)}</td><td>module efficiency ${pct(x.moduleEff, 1)}, CAPEX ₪${x.capexIlsPerKwp.map(int).join('–')}/kWp, O&amp;M ₪${x.opexIlsPerM2Yr.join('–')}/m²·yr, ${x.weightKgM2} kg/m²${x.combustible ? ', combustible substrate' : ''}</td></tr>`).join('')}
 <tr><td>Survey answers</td><td>${Object.entries(r.inputs.answers).map(([k, v]) => `${esc(qLabel[k] || k)}: ${esc(v)}`).join('<br>')}</td></tr>
 </tbody></table>
-<p class="note">All prices are screening assumptions in ILS, not quotes. Replace them with installer quotes and the building's actual tariff before any decision.</p>
+<p class="note">All prices are screening assumptions in ILS, not quotes. A detailed study would replace them with real prices and the building's actual tariff.</p>
 
 <h2>7. Data sources and method</h2>
 <ul>
@@ -111,6 +111,6 @@ ${Object.values(model.technologies).map(x => `<tr><td>${esc(x.label)}</td><td>mo
 <li>Method: sun position for 8,760 hours; per-cell horizon from ray casts against neighbouring buildings (5° bins); Hay–Davies transposition with obstructed sky view factor; Faiman cell temperature; fixed loss chain; hourly match against a modelled consumption profile; 25-year discounted cash flow in three cases.</li>
 <li>Not modelled yet: balcony railings, reflections from glass facades, cooling effect of opaque BIPV, detailed string layout, export limits.</li>
 </ul>
-<p class="note">Screening assessment for deciding where a detailed study makes sense. It is not an engineering design, a structural or fire assessment, or an offer.</p>
+<p class="note">Preliminary research screening from SPFI, showing where a detailed study could make sense. It is not an engineering design, a structural or fire assessment, a feasibility approval or an offer.</p>
 </main></body></html>`;
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24",
+ "generatedAt": "2026-11-25",
  "climate": {
   "source": "PVGIS 5.3 typical meteorological year, European Commission Joint Research Centre",
   "sourceId": "source-jrc-pvgis-tmy",
@@ -67,7 +67,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 732,
+   "ms": 666,
    "rank": 1
   },
   {
@@ -127,7 +127,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 715,
+   "ms": 711,
    "rank": 2
   },
   {
@@ -187,7 +187,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 842,
+   "ms": 820,
    "rank": 3
   },
   {
@@ -247,7 +247,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 522,
+   "ms": 509,
    "rank": 4
   },
   {
@@ -307,7 +307,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 610,
+   "ms": 603,
    "rank": 5
   },
   {
@@ -367,7 +367,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 332,
+   "ms": 320,
    "rank": 6
   },
   {
@@ -427,7 +427,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 604,
+   "ms": 606,
    "rank": 7
   },
   {
@@ -547,7 +547,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 109,
+   "ms": 110,
    "rank": 9
   },
   {
@@ -607,7 +607,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 446,
+   "ms": 297,
    "rank": 10
   },
   {
@@ -667,7 +667,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 707,
+   "ms": 695,
    "rank": 11
   },
   {
@@ -727,7 +727,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 642,
+   "ms": 640,
    "rank": 12
   },
   {
@@ -787,7 +787,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 582,
+   "ms": 578,
    "rank": 13
   },
   {
@@ -907,7 +907,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 596,
+   "ms": 580,
    "rank": 15
   },
   {
@@ -967,7 +967,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 367,
+   "ms": 368,
    "rank": 16
   },
   {
@@ -1027,7 +1027,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 357,
+   "ms": 337,
    "rank": 17
   },
   {
@@ -1087,7 +1087,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 735,
+   "ms": 718,
    "rank": 18
   },
   {
@@ -1147,7 +1147,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 562,
+   "ms": 544,
    "rank": 19
   },
   {
@@ -1207,7 +1207,7 @@
    "blocked": [
     "Combustible facade product on a building taller than 29 m without an accepted fire classification"
    ],
-   "ms": 375,
+   "ms": 328,
    "rank": 20
   }
  ]
