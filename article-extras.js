@@ -4,9 +4,18 @@ import {storyArt} from './photo-renderer.js';
 import {matchesGroup} from './article-groups.js';
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
+// Scores: a story that cites the other ("see “Title”") 4, same topic 2, same Israel desk 2, same scope (Israel / World) 1,
+// plus 1 per shared glossary term (up to 3). Ties go to the newer source date, so the same few stories are not repeated everywhere.
 export function relatedArticles(current,stories,metadata){
- const section=metadata[current.id]?.section;
- return stories.filter(s=>s.id!==current.id).map(s=>({story:s,score:(s.topic===current.topic?2:0)+(section&&metadata[s.id]?.section===section?1:0)})).filter(s=>s.score>0).sort((a,b)=>b.score-a.score||a.story.id.localeCompare(b.story.id)).slice(0,3).map(s=>s.story);
+ const section=metadata[current.id]?.section,scope=metadata[current.id]?.scope;
+ const terms=new Set((current.glossary||[]).map(x=>x.id));
+ const body=s=>JSON.stringify(s.body?.en||[]);
+ const own=body(current);
+ return stories.filter(s=>s.id!==current.id).map(s=>{
+  const cites=own.includes('“'+s.title?.en+'”')||body(s).includes('“'+current.title?.en+'”');
+  const shared=(s.glossary||[]).filter(x=>terms.has(x.id)).length;
+  return {story:s,score:(cites?4:0)+(s.topic===current.topic?2:0)+(section&&metadata[s.id]?.section===section?2:0)+(scope&&metadata[s.id]?.scope===scope?1:0)+Math.min(shared,3)};
+ }).filter(s=>s.score>1).sort((a,b)=>b.score-a.score||(b.story.date||'').localeCompare(a.story.date||'')||a.story.id.localeCompare(b.story.id)).slice(0,3).map(s=>s.story);
 }
 
 export function articleExtras(current,stories,metadata,lang='en'){

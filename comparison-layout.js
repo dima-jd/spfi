@@ -19,5 +19,6 @@ export function comparisonLayout(stories,metadata,lang){
  
  <section class="mag-section" id="press" aria-labelledby="press-title">${head('press','Announcements','הודעות רשמיות',esc(t(groupDescriptions.press)))}${group('press').length?cards(group('press')):`<div class="mag-empty">${bi('No announcements in this section yet.','אין עדיין הודעות במדור זה.')}</div>`}</section>
  <section class="mag-section" id="popular" aria-labelledby="popular-title">${head('popular','Editor’s picks','בחירת העורך',bi('Editor-selected stories to explore. This is not a readership ranking.','כתבות שנבחרו על ידי המערכת. זה אינו דירוג לפי נתוני קריאה.'))}<div class="mag-popular">${group('trending').map(s=>card(s,'brief')).join('')}</div></section>
- ${Object.entries(sections).map(([id,name])=>`<section class="mag-section" id="${id}" aria-labelledby="${id}-title">${head(id,name.en,name.he,'',deskHref(id,lang))}${cards(stories.filter(s=>metadata[s.id]?.section===id))}</section>`).join('')}`;
+ ${Object.entries(sections).map(([id,name])=>`<section class="mag-section" id="${id}" aria-labelledby="${id}-title">${head(id,name.en,name.he,'',deskHref(id,lang))}${cards(stories.filter(s=>metadata[s.id]?.section===id))}</section>`).join('')}
+ <section class="mag-section" id="world" aria-labelledby="world-title">${head('world','World','מהעולם',bi('Solar stories from outside Israel, newest first.','כתבות סולאריות מחוץ לישראל, החדשות ביותר תחילה.'),editorialHref('world',lang))}${cards(latest.filter(s=>metadata[s.id]?.scope==='international').slice(0,6))}</section>`;
 }
