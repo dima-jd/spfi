@@ -439,4 +439,25 @@ Object.assign(assignments, {
   "community-garden-solar-question": "pexels-dzmitryj-2151357398-33900746"
 });
 
+// Solar Radar stories, 2 Oct–20 Nov 2026
+Object.assign(assignments, {
+  "agripv-optimal-cultivation-rules": "field",
+  "kibbutz-assembly-solar-land-deals": "people-panels",
+  "solar-canopies-sports-courts": "pexels-victormoragriega-29407508",
+  "municipal-solar-framework-tenders": "installer",
+  "electricity-authority-connection-rules-2026": "grid",
+  "storage-policy-tama1-amendment": "electricity-landscape",
+  "agripv-announcements-by-stage": "solar-field-building",
+  "ila-land-records-solar": "pexels-dzmitryj-2151357398-33900746",
+  "israel-agripv-evidence-gap": "tomatoes",
+  "reservoirs-government-roofs-birds": "panel",
+  "solar-targets-vs-connections-2026": "house",
+  "periphery-land-law-solar": "pexels-tomfisk-9893731",
+  "agripv-wheat-lettuce-field-trials": "grass",
+  "solar-carports-netherlands-seattle": "pexels-kelly-11815854",
+  "solar-landscape-public-say": "pexels-tomfisk-9893729",
+  "one-roof-many-users-wheeling": "roof",
+  "china-solar-technology-export-controls": "manufacturing-technician"
+});
+
 assignments["israel-agricultural-research-institutions-guide"] = null; // Institution guide: no documentary photo supplied.

@@ -1,4 +1,25 @@
 {
+  "agripv-announcements-by-stage": {
+    "section": "projects-places",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "agripv-optimal-cultivation-rules": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "agripv-wheat-lettuce-field-trials": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
   "alpacas-solar-grazing": {
     "section": null,
     "scope": "international",
@@ -62,6 +83,13 @@
       "trending"
     ]
   },
+  "china-solar-technology-export-controls": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
   "cmblu-long-duration-storage": {
     "section": null,
     "scope": "international",
@@ -86,6 +114,13 @@
   "egypt-desert-solar-water-pilot": {
     "section": null,
     "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "electricity-authority-connection-rules-2026": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
     "groups": [
       "secondary"
     ]
@@ -132,6 +167,13 @@
       "trending"
     ]
   },
+  "ila-land-records-solar": {
+    "section": "projects-places",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
   "israel-100000-solar-roofs-programme": {
     "section": "farmers-communities",
     "scope": "israel",
@@ -154,6 +196,13 @@
     ]
   },
   "israel-agricultural-research-institutions-guide": {
+    "section": "innovation-research",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "israel-agripv-evidence-gap": {
     "section": "innovation-research",
     "scope": "israel",
     "groups": [
@@ -202,6 +251,13 @@
       "secondary"
     ]
   },
+  "kibbutz-assembly-solar-land-deals": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
   "maale-gilboa-grapes-first-season": {
     "section": "farmers-communities",
     "scope": "israel",
@@ -216,6 +272,20 @@
       "secondary"
     ]
   },
+  "municipal-solar-framework-tenders": {
+    "section": "companies-services",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "one-roof-many-users-wheeling": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
   "pears-under-solar-canopies": {
     "section": null,
     "scope": "international",
@@ -223,9 +293,23 @@
       "secondary"
     ]
   },
+  "periphery-land-law-solar": {
+    "section": "farmers-communities",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
   "regace-greenhouses": {
     "section": "innovation-research",
     "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "reservoirs-government-roofs-birds": {
+    "section": "projects-places",
+    "scope": "israel",
     "groups": [
       "secondary"
     ]
@@ -251,6 +335,20 @@
       "secondary"
     ]
   },
+  "solar-canopies-sports-courts": {
+    "section": "projects-places",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
+  "solar-carports-netherlands-seattle": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
   "solar-growth-grid-bottleneck": {
     "section": null,
     "scope": "international",
@@ -265,6 +363,13 @@
       "trending"
     ]
   },
+  "solar-landscape-public-say": {
+    "section": null,
+    "scope": "international",
+    "groups": [
+      "secondary"
+    ]
+  },
   "solar-rooftop-plan-explained-simply": {
     "section": "farmers-communities",
     "scope": "israel",
@@ -272,11 +377,25 @@
       "sponsored"
     ]
   },
+  "solar-targets-vs-connections-2026": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "secondary"
+    ]
+  },
   "space-solar-power-symposium-2026": {
     "section": null,
     "scope": "international",
     "groups": [
       "press"
+    ]
+  },
+  "storage-policy-tama1-amendment": {
+    "section": "solar-in-numbers",
+    "scope": "israel",
+    "groups": [
+      "secondary"
     ]
   },
   "tandem-module-record": {
