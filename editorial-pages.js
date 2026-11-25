@@ -2,6 +2,8 @@ import {readerPages} from './reader-pages.js';
 export const editorialPages={
  ...readerPages,
  latest:{en:'Latest updates',he:'עדכונים אחרונים'},
+ israel:{en:'Israel Desk',he:'ישראל מקרוב'},
+ world:{en:'World',he:'מהעולם'},
  opinion:{en:'Opinion and Analysis',he:'דעה וניתוח'},
  sponsored:{en:'Sponsored',he:'תוכן ממומן'},
  press:{en:'Announcements',he:'הודעות רשמיות'},
