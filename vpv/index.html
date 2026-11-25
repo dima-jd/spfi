@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>VPV · Vertical Solar</title>
+<link rel="canonical" href="https://spfi.co.il/vpv/">
+<meta property="og:title" content="VPV · Vertical Solar">
+<meta property="og:url" content="https://spfi.co.il/vpv/">
+<meta property="og:type" content="website">
+<meta name="description" content="Screening of solar retrofits on existing high-rise buildings: facades, roofs and shading, with generation, economics and technical limits.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">VPV <small>Vertical Solar<br>SPFI research</small></div>
+  <form id="search" class="search" autocomplete="off">
+    <input id="q" type="search" placeholder="Address in Israel, or lat, lon" aria-label="Building address or coordinates">
+    <button class="btn" type="submit">Analyse</button>
+  </form>
+  <span class="badge">Research pilot · screening model</span>
+</header>
+
+<main class="layout">
+  <aside class="list" aria-label="Pilot buildings">
+    <div class="list-head"><h2>Pilot buildings</h2><p class="minor" id="list-note">Tel Aviv and Ramat Gan</p><p class="minor">Ranked by facade potential with a planned facade renewal. Dot: that verdict.</p></div>
+    <div class="filters" id="filters"></div>
+    <ol id="buildings" class="buildings"></ol>
+  </aside>
+
+  <section class="viewer" aria-label="3D model">
+    <canvas id="canvas"></canvas>
+    <div class="viewer-top">
+      <div class="seg" id="modes" role="tablist" aria-label="Colour by">
+        <button data-mode="irradiance" class="active">Irradiation</button>
+        <button data-mode="scenario">Scenario</button>
+      </div>
+      <div class="seg" id="views" aria-label="Camera">
+        <button data-yaw="0">From S</button><button data-yaw="-90">E</button><button data-yaw="90">W</button><button data-yaw="180">N</button>
+      </div>
+    </div>
+    <div class="legend" id="legend"></div>
+    <div class="status" id="status" hidden></div>
+    <p class="hint">Drag to orbit · Shift-drag to pan · Scroll to zoom · Click a surface</p>
+  </section>
+
+  <aside class="panel" id="panel" aria-live="polite">
+    <div class="empty-state">
+      <h2>Which buildings are worth a solar retrofit?</h2>
+      <p>Pick a pilot building or search an address. The model builds the building and its neighbours from OpenStreetMap, simulates a typical year hour by hour, and compares BIPV cladding, flexible modules, roof racking and solar louvres on every surface.</p>
+      <p>VPV is a research direction of SPFI, the open solar research platform for Israel. Its method, assumptions and sources are published with every result.</p>
+    </div>
+  </aside>
+</main>
+
+<footer class="foot">
+  Buildings © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a> (ODbL) · Climate: PVGIS TMY, © European Union, JRC · Preliminary research screening by <a href="https://spfi.co.il/">SPFI</a>: not engineering advice, a feasibility approval or an offer.
+</footer>
+<script type="module" src="app/app.js"></script>
+</body>
+</html>
