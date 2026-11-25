@@ -1,0 +1,1214 @@
+{
+ "generatedAt": "2026-11-24",
+ "climate": {
+  "source": "PVGIS 5.3 typical meteorological year, European Commission Joint Research Centre",
+  "sourceId": "source-jrc-pvgis-tmy",
+  "radiationDb": "PVGIS-SARAH3",
+  "years": "2005–2023",
+  "lat": 32.075,
+  "lon": 34.795,
+  "retrievedAt": "2026-11-24"
+ },
+ "buildings": [
+  {
+   "id": "levinstein-tower",
+   "name": "Levinstein Tower",
+   "nameHe": "מגדל לוינשטיין",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 127,
+   "heightSource": "levels",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 79.7005,
+   "genKwh": 134253.06783893704,
+   "capex": 294891.85000000003,
+   "npv": [
+    74787.02170619841,
+    425146.62810193887,
+    833662.9484658877
+   ],
+   "payback": [
+    8.446450750893113,
+    4.994725691754995,
+    3.158217863813397
+   ],
+   "lcoe": 0.20319800338467953,
+   "facadeSuitableM2": 11149.400400874574,
+   "roofSuitableM2": 1348,
+   "meanFacade": {
+    "S": 1182,
+    "E": 708,
+    "W": 1184,
+    "N": 563
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -646992.3446031667,
+    "payback": 19.046345639603935,
+    "lcoe": 1.1160710857168326,
+    "kwh": 160237.1840819344
+   },
+   "bestFacadeRenewal": {
+    "id": "W:bipv",
+    "label": "W BIPV",
+    "npv": -151894.73445889246,
+    "payback": 15.507663003393565,
+    "lcoe": 0.528881864921511,
+    "kwh": 180421.35856553912
+   },
+   "feasibility": 52,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 732,
+   "rank": 1
+  },
+  {
+   "id": "sapir-tower",
+   "name": "Sapir Tower",
+   "nameHe": "מגדל ספיר",
+   "city": "Ramat Gan",
+   "use": "office",
+   "heightM": 170,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 83.4845,
+   "genKwh": 150302.42858831584,
+   "capex": 308892.64999999997,
+   "npv": [
+    113666.19652953275,
+    500214.8591535236,
+    952950.0424194651
+   ],
+   "payback": [
+    7.853653048451937,
+    4.659115663494149,
+    2.9497873736597047
+   ],
+   "lcoe": 0.19011766050078177,
+   "facadeSuitableM2": 15155.531849152041,
+   "roofSuitableM2": 1412,
+   "meanFacade": {
+    "S": 1031,
+    "E": 935,
+    "W": 741,
+    "N": 457
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -1130722.2284023336,
+    "payback": null,
+    "lcoe": 1.7368175108992743,
+    "kwh": 100234.04472953826
+   },
+   "bestFacadeRenewal": {
+    "id": "E:bipv",
+    "label": "E BIPV",
+    "npv": -472630.95928537776,
+    "payback": 20.30606105450348,
+    "lcoe": 0.6463469888081501,
+    "kwh": 207515.20009739697
+   },
+   "feasibility": 52,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 715,
+   "rank": 2
+  },
+  {
+   "id": "toha-tower-1",
+   "name": "ToHa Tower 1",
+   "nameHe": "מגדל תוצרת הארץ 1",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 83.2,
+   "heightSource": "levels",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 231.6952007935715,
+   "genKwh": 396133.8497169018,
+   "capex": 857272.2429362145,
+   "npv": [
+    238773.23885567032,
+    1269118.4050349654,
+    2471715.177843244
+   ],
+   "payback": [
+    8.309775906526804,
+    4.917583686371568,
+    3.1103049347556455
+   ],
+   "lcoe": 0.20019705871326052,
+   "facadeSuitableM2": 13257.475448482028,
+   "roofSuitableM2": 3918.7348971428582,
+   "meanFacade": {
+    "S": 962,
+    "E": 737,
+    "W": 598,
+    "N": 291
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -819014.8538849548,
+    "payback": null,
+    "lcoe": 1.7810001183313549,
+    "kwh": 70783.9970128499
+   },
+   "bestFacadeRenewal": {
+    "id": "E:bipv",
+    "label": "E BIPV",
+    "npv": -349471.9134914512,
+    "payback": 22.850739037832454,
+    "lcoe": 0.7021182814853146,
+    "kwh": 118095.9004045017
+   },
+   "feasibility": 51,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 842,
+   "rank": 3
+  },
+  {
+   "id": "maccabi-tower",
+   "name": "Maccabi Tower",
+   "nameHe": "מגדל מכבי",
+   "city": "Ramat Gan",
+   "use": "office",
+   "heightM": 91,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 60.544000000000004,
+   "genKwh": 105152.95109677315,
+   "capex": 224012.80000000002,
+   "npv": [
+    68380.68043400435,
+    340932.9167314467,
+    659388.8987453015
+   ],
+   "payback": [
+    8.167934529138885,
+    4.837428464899615,
+    3.0604931366879704
+   ],
+   "lcoe": 0.19707532604988265,
+   "facadeSuitableM2": 7833.793682658024,
+   "roofSuitableM2": 1024,
+   "meanFacade": {
+    "S": 903,
+    "E": 662,
+    "W": 901,
+    "N": 397
+   },
+   "bestFacadeOption": {
+    "id": "E:louvres",
+    "label": "E Louvres",
+    "npv": -779944.0089003782,
+    "payback": null,
+    "lcoe": 1.9074626987848575,
+    "kwh": 57176.406117830426
+   },
+   "bestFacadeRenewal": {
+    "id": "W:bipv",
+    "label": "W BIPV",
+    "npv": -311093.58902411757,
+    "payback": 23.310619145660617,
+    "lcoe": 0.7117507841590233,
+    "kwh": 101104.4697521776
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 522,
+   "rank": 4
+  },
+  {
+   "id": "azrieli-circular",
+   "name": "Azrieli Circular",
+   "nameHe": "עזריאלי עגול",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 187,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 86.7955,
+   "genKwh": 155906.63889754564,
+   "capex": 321143.35000000003,
+   "npv": [
+    116871.41344436466,
+    518029.50577052945,
+    987804.7901040267
+   ],
+   "payback": [
+    7.873212043195104,
+    4.670252553262954,
+    2.956690376702241
+   ],
+   "lcoe": 0.19055274498777974,
+   "facadeSuitableM2": 13874.540431019683,
+   "roofSuitableM2": 1468,
+   "meanFacade": {
+    "S": 953,
+    "E": 687,
+    "W": 967,
+    "N": 441
+   },
+   "bestFacadeOption": {
+    "id": "E:louvres",
+    "label": "E Louvres",
+    "npv": -979136.5822772477,
+    "payback": null,
+    "lcoe": 1.505840512284656,
+    "kwh": 104067.27617817745
+   },
+   "bestFacadeRenewal": {
+    "id": "E:bipv",
+    "label": "E BIPV",
+    "npv": -379106.82412696956,
+    "payback": 24.261398938161207,
+    "lcoe": 0.7312730688798201,
+    "kwh": 114341.80613047257
+   },
+   "feasibility": 52,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 610,
+   "rank": 5
+  },
+  {
+   "id": "top-tower",
+   "name": "Top Tower",
+   "nameHe": "מגדל על",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 70,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 52.7395,
+   "genKwh": 95017.381302353,
+   "capex": 195136.15,
+   "npv": [
+    72051.21274233429,
+    316380.50361376215,
+    602558.226721911
+   ],
+   "payback": [
+    7.8476168701273314,
+    4.655678281978444,
+    2.947656664828549
+   ],
+   "lcoe": 0.18998335817523082,
+   "facadeSuitableM2": 3618.696229501872,
+   "roofSuitableM2": 892,
+   "meanFacade": {
+    "S": 1266,
+    "E": 940,
+    "W": 996,
+    "N": 490
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -217545.18759945166,
+    "payback": 17.811051672214752,
+    "lcoe": 0.9487714119178147,
+    "kwh": 73670.66219847836
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -36251.00782228856,
+    "payback": 13.619735580548113,
+    "lcoe": 0.7474270769634859,
+    "kwh": 73670.66219847836
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 332,
+   "rank": 6
+  },
+  {
+   "id": "sammy-ofer-heart",
+   "name": "Sammy Ofer Heart institute",
+   "nameHe": "מרכז הלב ע\"ש סמי עופר",
+   "city": "Tel Aviv",
+   "use": "hospital",
+   "heightM": 48,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 170.99709460625223,
+   "genKwh": 305367.42700076103,
+   "capex": 632689.2500431333,
+   "npv": [
+    223726.7239872301,
+    1010443.424793924,
+    1931371.0142025957
+   ],
+   "payback": [
+    7.923357962120811,
+    4.69879699179698,
+    2.974380674349944
+   ],
+   "lcoe": 0.19166756724771147,
+   "facadeSuitableM2": 5857.859139775189,
+   "roofSuitableM2": 2892.1284500000374,
+   "meanFacade": {
+    "S": 1090,
+    "E": 786,
+    "W": 975,
+    "N": 377
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -242104.75116087563,
+    "payback": 18.694029449007388,
+    "lcoe": 0.9627108134799869,
+    "kwh": 72257.81325646862
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -61674.91183315572,
+    "payback": 14.28543847828113,
+    "lcoe": 0.7584083165258949,
+    "kwh": 72257.81325646862
+   },
+   "feasibility": 52,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 604,
+   "rank": 7
+  },
+  {
+   "id": "tau-medicine-school",
+   "name": "Medicine School",
+   "nameHe": "בית הספר לרפואה",
+   "city": "Tel Aviv",
+   "use": "education",
+   "heightM": 34.24,
+   "heightSource": "levels",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 8.987,
+   "genKwh": 16191.30305195041,
+   "capex": 33251.9,
+   "npv": [
+    12277.786622576656,
+    53912.375130321474,
+    102678.08684255567
+   ],
+   "payback": [
+    7.8476166547092046,
+    4.655678159302537,
+    2.947656588785256
+   ],
+   "lcoe": 0.1899833533820264,
+   "facadeSuitableM2": 877.9887010656952,
+   "roofSuitableM2": 152,
+   "meanFacade": {
+    "S": 1251,
+    "E": 622,
+    "W": 676,
+    "N": 320
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -52650.132742600894,
+    "payback": null,
+    "lcoe": 2.033691321645524,
+    "kwh": 3544.133895200677
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -15140.419953361938,
+    "payback": 13.834997663885954,
+    "lcoe": 0.7620814862801867,
+    "kwh": 24391.827541792765
+   },
+   "feasibility": 57,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 67,
+   "rank": 8
+  },
+  {
+   "id": "toyota-building",
+   "name": "Toyota Building",
+   "nameHe": "מגדל טויוטה",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 94,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 4.9665,
+   "genKwh": 7779.251381858485,
+   "capex": 18376.05,
+   "npv": [
+    2518.1659448358637,
+    23164.95341313046,
+    47116.2829532964
+   ],
+   "payback": [
+    9.149975608263448,
+    5.391627997448349,
+    3.4033167935173374
+   ],
+   "lcoe": 0.21852203843013362,
+   "facadeSuitableM2": 1928.9711995314183,
+   "roofSuitableM2": 84,
+   "meanFacade": {
+    "S": 528,
+    "E": 1043,
+    "W": 580,
+    "N": 341
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -110897.75319838329,
+    "payback": null,
+    "lcoe": 1.2902070361540414,
+    "kwh": 14967.767103238963
+   },
+   "bestFacadeRenewal": {
+    "id": "S:bipv",
+    "label": "S BIPV",
+    "npv": -50758.14415713658,
+    "payback": null,
+    "lcoe": 0.7705706831131939,
+    "kwh": 13371.970321883447
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 109,
+   "rank": 9
+  },
+  {
+   "id": "ichilov-medical-tower",
+   "name": "Medical Tower",
+   "nameHe": "מגדל האשפוז",
+   "city": "Tel Aviv",
+   "use": "hospital",
+   "heightM": 60,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 65.51050000000001,
+   "genKwh": 117062.52832260728,
+   "capex": 242388.85000000003,
+   "npv": [
+    85980.30261055806,
+    387527.1139022304,
+    740531.3636775824
+   ],
+   "payback": [
+    7.917937991447421,
+    4.695712394412939,
+    2.9724691787656368
+   ],
+   "lcoe": 0.19154711856328255,
+   "facadeSuitableM2": 4074.630787339136,
+   "roofSuitableM2": 1108,
+   "meanFacade": {
+    "S": 1134,
+    "E": 943,
+    "W": 1000,
+    "N": 514
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -140401.8879063708,
+    "payback": 18.989636671357644,
+    "lcoe": 0.9915700249556866,
+    "kwh": 39374.91457720008
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -39134.24248586857,
+    "payback": 14.508717595365692,
+    "lcoe": 0.7811431458070093,
+    "kwh": 39374.91457720008
+   },
+   "feasibility": 54,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 446,
+   "rank": 10
+  },
+  {
+   "id": "alon-tower-north",
+   "name": "Alon Tower North",
+   "nameHe": "מגדל אלון צפוני",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 165,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 95.5034613066877,
+   "genKwh": 165592.48441784084,
+   "capex": 353362.80683474446,
+   "npv": [
+    106849.63454771358,
+    536217.4969161658,
+    1037843.4983439134
+   ],
+   "payback": [
+    8.182958635998354,
+    4.845923347026235,
+    3.0657735324258124
+   ],
+   "lcoe": 0.197406341026917,
+   "facadeSuitableM2": 17506.863834160402,
+   "roofSuitableM2": 1615.2805295000032,
+   "meanFacade": {
+    "S": 675,
+    "E": 1042,
+    "W": 943,
+    "N": 404
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -871186.214802849,
+    "payback": null,
+    "lcoe": 1.2984963193785037,
+    "kwh": 118750.65861403942
+   },
+   "bestFacadeRenewal": {
+    "id": "S:bipv",
+    "label": "S BIPV",
+    "npv": -418807.4825464231,
+    "payback": null,
+    "lcoe": 0.7883220103220654,
+    "kwh": 104367.32696043327
+   },
+   "feasibility": 52,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 707,
+   "rank": 11
+  },
+  {
+   "id": "leonardo-city-tower",
+   "name": "Leonardo City Tower",
+   "nameHe": "לאונרדו סיטי טאוור",
+   "city": "Ramat Gan",
+   "use": "hotel",
+   "heightM": 170,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 38.199573958071525,
+   "genKwh": 62611.89116506837,
+   "capex": 141338.42364486464,
+   "npv": [
+    29512.60506351312,
+    193931.27232954235,
+    385279.501234078
+   ],
+   "payback": [
+    8.703620182920298,
+    5.140211583061746,
+    3.248147505975351
+   ],
+   "lcoe": 0.20882587341310116,
+   "facadeSuitableM2": 12752.28586723957,
+   "roofSuitableM2": 646.0815891428588,
+   "meanFacade": {
+    "S": 1207,
+    "E": 917,
+    "W": 860,
+    "N": 412
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -642185.7761830427,
+    "payback": 18.835430833403997,
+    "lcoe": 1.0107698965765037,
+    "kwh": 179671.25732655823
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -171144.89145819316,
+    "payback": 14.392244340530516,
+    "lcoe": 0.796268500284769,
+    "kwh": 179671.25732655823
+   },
+   "feasibility": 52,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 642,
+   "rank": 12
+  },
+  {
+   "id": "museum-tower",
+   "name": "Museum Tower",
+   "nameHe": "מגדל המוזיאון",
+   "city": "Tel Aviv",
+   "use": "office",
+   "heightM": 89,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 87.2685,
+   "genKwh": 157210.27322147787,
+   "capex": 322893.45,
+   "npv": [
+    119166.07383343324,
+    523427.9055315427,
+    996928.0923207729
+   ],
+   "payback": [
+    7.848474843403205,
+    4.656166877188872,
+    2.9479595305140784
+   ],
+   "lcoe": 0.19000244854464182,
+   "facadeSuitableM2": 10250.105482762207,
+   "roofSuitableM2": 1476,
+   "meanFacade": {
+    "S": 1097,
+    "E": 947,
+    "W": 980,
+    "N": 412
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -802361.7694420604,
+    "payback": 20.150083333303,
+    "lcoe": 1.055940618775487,
+    "kwh": 189186.1396697834
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -284210.56766522815,
+    "payback": 15.381670390292282,
+    "lcoe": 0.8318532791191889,
+    "kwh": 189186.1396697834
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 582,
+   "rank": 13
+  },
+  {
+   "id": "pisgat-dan",
+   "name": "Pisgat Dan",
+   "nameHe": "פסגת דן",
+   "city": "Ramat Gan",
+   "use": "residential",
+   "heightM": 128,
+   "heightSource": "levels",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 56.523500000000006,
+   "genKwh": 101834.77196546644,
+   "capex": 209136.95,
+   "npv": [
+    77163.63818492256,
+    338259.8185948084,
+    643104.321542904
+   ],
+   "payback": [
+    7.848929806371535,
+    4.662596054849416,
+    2.9573411542731325
+   ],
+   "lcoe": 0.1899833580327033,
+   "facadeSuitableM2": 11962.79411426625,
+   "roofSuitableM2": 956,
+   "meanFacade": {
+    "S": 1022,
+    "E": 799,
+    "W": 1101,
+    "N": 430
+   },
+   "bestFacadeOption": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -523055.10939125664,
+    "payback": 21.126591705000028,
+    "lcoe": 1.073239689323666,
+    "kwh": 112444.3058125116
+   },
+   "bestFacadeRenewal": {
+    "id": "S:louvres",
+    "label": "S Louvres",
+    "npv": -210042.4585149142,
+    "payback": 16.114801687570967,
+    "lcoe": 0.8454812126462696,
+    "kwh": 112444.3058125116
+   },
+   "feasibility": 51,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 601,
+   "rank": 14
+  },
+  {
+   "id": "david-intercontinental",
+   "name": "David Intercontinental Hotel",
+   "nameHe": "מלון דייויד אינטרקונטיננטל",
+   "city": "Tel Aviv",
+   "use": "hotel",
+   "heightM": 81,
+   "heightSource": "levels",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 256.0236217246506,
+   "genKwh": 393550.7155543268,
+   "capex": 947287.4003812071,
+   "npv": [
+    102533.79520707125,
+    1151779.2597618338,
+    2367306.1771380063
+   ],
+   "payback": [
+    9.342513461321223,
+    5.499466067663063,
+    3.4697886211144313
+   ],
+   "lcoe": 0.22267011807808343,
+   "facadeSuitableM2": 9778.15162132177,
+   "roofSuitableM2": 4330.209246928551,
+   "meanFacade": {
+    "S": 1153,
+    "E": 769,
+    "W": 1125,
+    "N": 460
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -459265.2778221799,
+    "payback": 20.46563266443418,
+    "lcoe": 1.1892094591715385,
+    "kwh": 93682.69582660496
+   },
+   "bestFacadeRenewal": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -170300.15188951176,
+    "payback": 15.618563410980657,
+    "lcoe": 0.9368403588059475,
+    "kwh": 93682.69582660496
+   },
+   "feasibility": 51,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 596,
+   "rank": 15
+  },
+  {
+   "id": "ayalon-insurance",
+   "name": "Ayalon Insurance building",
+   "nameHe": "בית איילון ביטוח",
+   "city": "Ramat Gan",
+   "use": "office",
+   "heightM": 64,
+   "heightSource": "levels",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 70.95,
+   "genKwh": 111437.13748548925,
+   "capex": 262515,
+   "npv": [
+    37087.38336764794,
+    332657.87376623385,
+    675602.1807766655
+   ],
+   "payback": [
+    9.12226822966885,
+    5.3760946091883,
+    3.393737811703733
+   ],
+   "lcoe": 0.21792399961118464,
+   "facadeSuitableM2": 3081.0388889618853,
+   "roofSuitableM2": 1200,
+   "meanFacade": {
+    "S": 774,
+    "E": 580,
+    "W": 747,
+    "N": 384
+   },
+   "bestFacadeOption": {
+    "id": "E:louvres",
+    "label": "E Louvres",
+    "npv": -157870.324154585,
+    "payback": null,
+    "lcoe": 1.6958206895957297,
+    "kwh": 13339.620520662982
+   },
+   "bestFacadeRenewal": {
+    "id": "E:bipv",
+    "label": "E BIPV",
+    "npv": -75151.8273338012,
+    "payback": null,
+    "lcoe": 0.9376629575830144,
+    "kwh": 12872.65435616998
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 367,
+   "rank": 16
+  },
+  {
+   "id": "twin-tower-1",
+   "name": "The Twin 1",
+   "nameHe": "מגדל התאומים 1",
+   "city": "Ramat Gan",
+   "use": "office",
+   "heightM": 70,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 50.138000000000005,
+   "genKwh": 79607.8062437214,
+   "capex": 185510.6,
+   "npv": [
+    29344.586301235653,
+    239950.31080555322,
+    484501.24027147243
+   ],
+   "payback": [
+    9.013461041620197,
+    5.315058673871645,
+    3.356088655607976
+   ],
+   "lcoe": 0.2155727980546137,
+   "facadeSuitableM2": 4155.338483553382,
+   "roofSuitableM2": 848,
+   "meanFacade": {
+    "S": 1046,
+    "E": 811,
+    "W": 586,
+    "N": 394
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -36237.465625297715,
+    "payback": null,
+    "lcoe": 1.8434223786082524,
+    "kwh": 2737.4508136507357
+   },
+   "bestFacadeRenewal": {
+    "id": "W:bipv",
+    "label": "W BIPV",
+    "npv": -17439.88841232827,
+    "payback": null,
+    "lcoe": 0.978609867764432,
+    "kwh": 2751.39568813215
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 357,
+   "rank": 17
+  },
+  {
+   "id": "neve-tzedek-tower",
+   "name": "Neve Tzedek Tower",
+   "nameHe": "מגדל נווה צדק",
+   "city": "Tel Aviv",
+   "use": "residential",
+   "heightM": 147,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 56.996500000000005,
+   "genKwh": 102686.94584130868,
+   "capex": 210887.05000000002,
+   "npv": [
+    77867.00616978132,
+    341917.3918225686,
+    651072.6681737404
+   ],
+   "payback": [
+    7.847616859409397,
+    4.655682886037564,
+    2.9480933491992167
+   ],
+   "lcoe": 0.1899833579367496,
+   "facadeSuitableM2": 14493.734232334227,
+   "roofSuitableM2": 964,
+   "meanFacade": {
+    "S": 1130,
+    "E": 791,
+    "W": 983,
+    "N": 556
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -322219.9859240455,
+    "payback": null,
+    "lcoe": 1.5382296263423243,
+    "kwh": 37424.325782224536
+   },
+   "bestFacadeRenewal": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -172905.18666270585,
+    "payback": 19.891188398296006,
+    "lcoe": 1.2117929133126855,
+    "kwh": 37424.325782224536
+   },
+   "feasibility": 51,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 735,
+   "rank": 18
+  },
+  {
+   "id": "dan-panorama",
+   "name": "Dan Panorama Hotel",
+   "nameHe": "מלון דן פנורמה",
+   "city": "Tel Aviv",
+   "use": "hotel",
+   "heightM": 64,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 99.80300000000001,
+   "genKwh": 179579.46645268053,
+   "capex": 369271.10000000003,
+   "npv": [
+    135511.0973518412,
+    597410.8939306516,
+    1138378.872395149
+   ],
+   "payback": [
+    7.858515939695357,
+    4.661884770071228,
+    2.9515038055509573
+   ],
+   "lcoe": 0.19022584768727696,
+   "facadeSuitableM2": 8129.63933173249,
+   "roofSuitableM2": 1688,
+   "meanFacade": {
+    "S": 1144,
+    "E": 1056,
+    "W": 770,
+    "N": 382
+   },
+   "bestFacadeOption": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -384267.00618640875,
+    "payback": null,
+    "lcoe": 1.5941093948588134,
+    "kwh": 40553.94116654247
+   },
+   "bestFacadeRenewal": {
+    "id": "W:louvres",
+    "label": "W Louvres",
+    "npv": -216587.92477539548,
+    "payback": 21.262759674618458,
+    "lcoe": 1.2558141090601957,
+    "kwh": 40553.94116654247
+   },
+   "feasibility": 53,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 562,
+   "rank": 19
+  },
+  {
+   "id": "tel-aviv-towers-1",
+   "name": "Tel Aviv Towers 1",
+   "nameHe": "מגדלי תל אביב 1",
+   "city": "Tel Aviv",
+   "use": "residential",
+   "heightM": 140,
+   "heightSource": "height",
+   "verdict": "promising",
+   "facadeVerdict": "not-viable",
+   "facadeVerdictRenewal": "not-viable",
+   "recommended": "Best value",
+   "options": [
+    "roof:bapv"
+   ],
+   "kwp": 35.7115,
+   "genKwh": 62982.29819300957,
+   "capex": 132132.55000000002,
+   "npv": [
+    43833.73350712139,
+    206525.29844525608,
+    396614.19191618985
+   ],
+   "payback": [
+    8.031982590190117,
+    4.7606317977417945,
+    3.013968315270891
+   ],
+   "lcoe": 0.1940761630819603,
+   "facadeSuitableM2": 5391.281082631595,
+   "roofSuitableM2": 604,
+   "meanFacade": {
+    "S": 993,
+    "E": 487,
+    "W": 616,
+    "N": 468
+   },
+   "bestFacadeOption": {
+    "id": "E:louvres",
+    "label": "E Louvres",
+    "npv": -112180.63357728277,
+    "payback": null,
+    "lcoe": 1.5963085988209509,
+    "kwh": 10480.65690753702
+   },
+   "bestFacadeRenewal": {
+    "id": "E:louvres",
+    "label": "E Louvres",
+    "npv": -68786.29677915451,
+    "payback": null,
+    "lcoe": 1.2575466070764927,
+    "kwh": 10480.65690753702
+   },
+   "feasibility": 51,
+   "blocked": [
+    "Combustible facade product on a building taller than 29 m without an accepted fire classification"
+   ],
+   "ms": 375,
+   "rank": 20
+  }
+ ]
+}

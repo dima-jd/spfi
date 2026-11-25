@@ -1,0 +1,70 @@
+{
+  "_status": "Screening assumptions for the 2026 Tel Aviv / Ramat Gan pilot. Every money figure is an editable assumption in ILS, not a quote. Replace with installer quotes and the building's actual tariff before any decision.",
+  "technologies": {
+    "bipv": {
+      "label": "BIPV facade cladding", "short": "BIPV", "slot": "opaque",
+      "description": "Rigid glass-glass modules that replace part of the opaque facade cladding (rear-ventilated rainscreen).",
+      "moduleEff": 0.19, "gammaPerC": -0.0035, "faimanU0": 22, "faimanU1": 4.0, "degradation": 0.005,
+      "capexIlsPerKwp": [8000, 11000, 15000], "opexIlsPerM2Yr": [10, 16, 25],
+      "weightKgM2": 28, "architecture": 5, "combustible": false, "wind": "facade-flush",
+      "installableShareOfOpaque": 0.7,
+      "renewalCreditIlsPerM2": [700, 1100, 1600],
+      "_renewalCredit": "Cladding not bought when BIPV replaces it during a planned facade renewal: [conservative, central, optimistic]."
+    },
+    "flexible": {
+      "label": "Flexible thin-film", "short": "Flexible", "slot": "opaque",
+      "description": "Lightweight modules on polymer or metal substrates, bonded to facade panels or flat roofs.",
+      "moduleEff": 0.15, "gammaPerC": -0.0032, "faimanU0": 17, "faimanU1": 3.0, "degradation": 0.008,
+      "capexIlsPerKwp": [5500, 7500, 10500], "opexIlsPerM2Yr": [8, 13, 20],
+      "weightKgM2": 4, "architecture": 3, "combustible": true, "wind": "bonded",
+      "installableShareOfOpaque": 0.6, "roofCoverage": 0.8, "lifetimeYr": 20
+    },
+    "bapv": {
+      "label": "BAPV roof racking", "short": "BAPV", "slot": "roof",
+      "description": "Conventional rigid modules on a tilted rack on the roof or technical floor.",
+      "moduleEff": 0.215, "gammaPerC": -0.0030, "faimanU0": 25, "faimanU1": 6.84, "degradation": 0.004,
+      "capexIlsPerKwp": [3000, 3700, 4600], "opexIlsPerM2Yr": [4, 6, 9],
+      "weightKgM2": 22, "architecture": 3, "combustible": false, "wind": "roof-rack",
+      "groundCoverRatio": 0.55, "rowShadingLoss": 0.03
+    },
+    "louvres": {
+      "label": "Solar shading louvres", "short": "Louvres", "slot": "window",
+      "description": "PV blades above or in front of windows that shade glazing and generate electricity.",
+      "moduleEff": 0.20, "gammaPerC": -0.0034, "faimanU0": 25, "faimanU1": 6.84, "degradation": 0.005,
+      "capexIlsPerKwp": [11000, 14000, 19000], "opexIlsPerM2Yr": [12, 18, 28],
+      "weightKgM2": 20, "architecture": 4, "combustible": false, "wind": "projecting", "rowShadingLoss": 0.2,
+      "bladeAreaPerWindowArea": 0.35, "orientations": ["E", "S", "W"],
+      "renewalCreditIlsPerM2": [400, 650, 900],
+      "_renewalCredit": "Conventional external shading not bought when the renewal includes shading anyway.",
+      "coolingCredit": { "shgc": 0.4, "blockedShare": 0.5, "cop": 3.0, "minAirTempC": 22 }
+    }
+  },
+  "losses": {
+    "inverterEff": 0.97, "wiringMismatch": 0.03, "availability": 0.01,
+    "soilingRoof": 0.04, "soilingFacade": 0.015, "facadeNonUniformity": 0.03
+  },
+  "roof": { "usableShare": 0.5 },
+  "buildingUse": {
+    "office":      { "label": "Office",      "wwr": 0.6,  "eui": 170, "selfConsumptionMeter": "building", "profile": "office" },
+    "hotel":       { "label": "Hotel",       "wwr": 0.45, "eui": 230, "selfConsumptionMeter": "building", "profile": "hotel" },
+    "hospital":    { "label": "Hospital",    "wwr": 0.4,  "eui": 300, "selfConsumptionMeter": "building", "profile": "flat" },
+    "education":   { "label": "University / school", "wwr": 0.4, "eui": 110, "selfConsumptionMeter": "building", "profile": "office" },
+    "residential": { "label": "Residential", "wwr": 0.35, "eui": 10,  "selfConsumptionMeter": "common areas", "profile": "flat" }
+  },
+  "economics": {
+    "currency": "ILS", "lifetimeYr": 25,
+    "selfConsumedIlsPerKwh": [0.38, 0.46, 0.55],
+    "exportIlsPerKwh": [0.25, 0.30, 0.35],
+    "discountRate": [0.08, 0.06, 0.045],
+    "inverterReplacementYr": 13, "inverterReplacementIlsPerKwp": [450, 350, 250],
+    "generationFactor": { "roof": [0.93, 1, 1.05], "facade": [0.85, 1, 1.08] },
+    "_order": "Triples are [conservative, central, optimistic] except where the cost order makes the first value the worst (CAPEX/OPEX: [low, mid, high] → conservative uses high)."
+  },
+  "screening": { "facadeMinKwhM2": 650, "roofMinKwhM2": 1300, "excludeBelowM": 7, "maxPaybackYr": 20 },
+  "feasibility": {
+    "highRiseM": 29,
+    "_highRiseM": "Height above which combustible facade products are treated as a blocking fire issue. Set from current Israeli fire regulations with a fire engineer; 29 m is a placeholder.",
+    "bmuRequiredAboveM": 40,
+    "connectionStudyAboveKwp": 100
+  }
+}
