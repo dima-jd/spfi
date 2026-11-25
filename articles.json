@@ -1,5 +1,228 @@
 [
   {
+    "id": "agripv-announcements-by-stage",
+    "topic": "agripv",
+    "title": {
+      "en": "Energized is not operating",
+      "he": "מחושמל זה לא מפועל"
+    },
+    "excerpt": {
+      "en": "Israel’s biggest AgriPV announcements of the autumn are planning permissions and tender wins. Here is what each one actually allows, and what it doesn’t.",
+      "he": "ההכרזות הגדולות של הסתיו על אגרו-וולטאי הן הסמכות תכנון וזכיות במכרזים. כך נראה מה כל אחת מהן מאפשרת בפועל, ומה לא."
+    },
+    "body": {
+      "en": [
+        "Autumn 2026 brought a run of large announcements. Read quickly, they suggest hundreds of megawatts of farm solar are arriving. Read by stage, they show something narrower: a few documents that let companies start the long route to a working site.",
+        "Hadarei She’an, Valley of Springs. Doral’s existing ground-mounted Stage A, about 175 MW of solar with 722 MWh of storage, has been electrically [[energized|energized]]. That is a physical milestone, not a commercial one: [[commercial-operation|commercial operation]] is expected “in the coming months”. On 12 October Doral reported government authorisation to advance Stage B as AgriPV: about 150 MW and 800 MWh across roughly 1,700 dunams belonging to 11 kibbutzim. Bizportal stresses this is a planning step, not approval to build. Doral has not disclosed the investment or schedule. Its NIS 150 million annual revenue figure is a company forecast.",
+        "Mikveh Israel, Holon. On 6 October Doral reported winning a tender at Mikveh Israel, Israel’s first agricultural school, founded in 1870. The project is about 50 MW with 300 MWh of storage on some 500 dunams, a few kilometres from Tel Aviv. No crop plan, investment, schedule or planning route has been published. It would be one of the first large AgriPV sites in the central district, in one of the country’s most historic farm landscapes.",
+        "The border schemes. On 11 November the cabinet authorised PowerGen to plan an AgriPV farm on land of kibbutzim Gesher HaZiv and Eilon near Nahariya, and Nofar Energy one at Moshav Shokeda near Gaza. Globes reports the sites will have no perimeter fences. Both now go to the [[national-infrastructure-committee|National Infrastructure Committee]]; Globes expects grid connection by the early 2030s if they are approved.",
+        "Why insist on the difference? Because each stage carries different risk. A planning authorisation can be rejected or reshaped. A tender win can stall at permitting. An energized plant can still fail acceptance tests or face curtailment. Reporting all of them as “new solar” inflates the pipeline and hides where projects actually get stuck.",
+        "SPFI will track these four sites through the same stages: plan deposited, plan approved, financial close, construction, energized, commercial operation and, for the AgriPV parts, measured farming under the panels."
+      ],
+      "he": [
+        "סתיו 2026 הביא שורה של הכרזות גדולות. בקריאה מהירה נדמה שמאות מגה-וואט של סולאר חקלאי מגיעים. בקריאה לפי שלבים התמונה צרה יותר: כמה מסמכים שמאפשרים לחברות להתחיל את הדרך הארוכה לאתר פעיל.",
+        "הדרי שאן, עמק המעיינות. שלב א' הקרקעי של דוראל, כ-175 מגה-וואט סולארי ו-722 מגה-וואט-שעה אגירה, [[energized|חושמל]]. זו אבן דרך פיזית, לא מסחרית: [[commercial-operation|הפעלה מסחרית]] צפויה “בחודשים הקרובים”. ב-12 באוקטובר דיווחה דוראל על הסמכת ממשלה לקידום שלב ב' כאגרו-וולטאי: כ-150 מגה-וואט ו-800 מגה-וואט-שעה על כ-1,700 דונם של 11 קיבוצים. ביזפורטל מדגיש שזה שלב תכנוני ולא אישור לבנות. דוראל לא פרסמה את היקף ההשקעה או לוח הזמנים, והערכת ההכנסות של 150 מיליון ש\"ח בשנה היא תחזית של החברה.",
+        "מקווה ישראל, חולון. ב-6 באוקטובר דיווחה דוראל על זכייה במכרז במקווה ישראל, בית הספר החקלאי הראשון בארץ, שנוסד ב-1870: כ-50 מגה-וואט ו-300 מגה-וואט-שעה על כ-500 דונם, קילומטרים ספורים מתל אביב. לא פורסמו תוכנית גידולים, היקף השקעה, לוח זמנים או מסלול תכנוני. זה יהיה אחד המתקנים האגרו-וולטאיים הגדולים הראשונים במחוז המרכז, באחד הנופים החקלאיים ההיסטוריים ביותר בארץ.",
+        "תכניות הגבול. ב-11 בנובמבר הסמיכה הממשלה את PowerGen לתכנן מתקן אגרו-וולטאי באדמות גשר הזיו ואילון ליד נהריה, ואת נופר אנרג'י לתכנן מתקן במושב שוקדה בעוטף עזה. לפי גלובס, המתקנים יהיו ללא גדר היקפית. שניהם עוברים עכשיו לו[[national-infrastructure-committee|ועדה לתשתיות לאומיות]], וגלובס מעריך חיבור לרשת בתחילת שנות ה-2030, אם יאושרו.",
+        "למה להתעקש על ההבדל? כי כל שלב נושא סיכון אחר. הסמכת תכנון יכולה להידחות או להשתנות. זכייה במכרז יכולה להיתקע בהיתרים. מתקן מחושמל עדיין עלול להיכשל בבדיקות קבלה או להיתקל בקיטומים. דיווח על כולם כ“סולאר חדש” מנפח את צבר הפרויקטים ומסתיר איפה הם נתקעים בפועל.",
+        "SPFI יעקוב אחר ארבעת האתרים האלה באותם שלבים: הפקדת תכנית, אישורה, סגירה פיננסית, הקמה, חישומל, הפעלה מסחרית — ובמתקנים האגרו-וולטאיים, חקלאות מדודה מתחת לפאנלים."
+      ]
+    },
+    "type": {
+      "en": "Project explainer",
+      "he": "הסבר על פרויקט"
+    },
+    "date": "2026-11-11",
+    "sources": [
+      {
+        "url": "https://www.bizportal.co.il/capitalmarket/news/article/20044523",
+        "name": "Mendi Hanig, Bizportal — Doral expands Hadarei She’an (12 Oct 2026)"
+      },
+      {
+        "url": "https://www.bizportal.co.il/energy/news/article/20044105",
+        "name": "Mendi Hanig, Bizportal — 500 dunams in the heart of Gush Dan: Doral wins Mikveh Israel (6 Oct 2026)"
+      },
+      {
+        "url": "https://now.solar/2026/11/12/cabinet-approves-3-power-plants-2-solar-farms-globes-israel-business-news/",
+        "name": "Globes via Now.Solar — Cabinet approves 3 power plants, 2 solar farms (11 Nov 2026)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "energized",
+        "term": {
+          "en": "Energized",
+          "he": "חישמול"
+        },
+        "definition": {
+          "en": "connected and carrying current for the first time.",
+          "he": "חיבור המתקן לרשת והזרמת זרם בו לראשונה."
+        }
+      },
+      {
+        "id": "commercial-operation",
+        "term": {
+          "en": "Commercial operation (COD)",
+          "he": "הפעלה מסחרית (COD)"
+        },
+        "definition": {
+          "en": "the date a plant formally starts selling power under its contracts.",
+          "he": "המועד שבו מתקן מתחיל רשמית למכור חשמל לפי חוזיו."
+        }
+      },
+      {
+        "id": "national-infrastructure-committee",
+        "term": {
+          "en": "National Infrastructure Committee",
+          "he": "הוועדה לתשתיות לאומיות"
+        },
+        "definition": {
+          "en": "the fast-track planning body for nationally important projects.",
+          "he": "גוף התכנון במסלול המהיר לפרויקטים בעלי חשיבות לאומית."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "agripv-optimal-cultivation-rules",
+    "topic": "agripv",
+    "title": {
+      "en": "AgriPV gets a referee",
+      "he": "לאגרו-וולטאי יש שופט"
+    },
+    "excerpt": {
+      "en": "Israel has drafted the rules that decide whether farming under solar panels is real. The penalties are financial, and the last step is dismantling.",
+      "he": "ישראל ניסחה את הכללים שיקבעו אם החקלאות מתחת לפאנלים אמיתית. העונשים כלכליים, והצעד האחרון הוא פירוק."
+    },
+    "body": {
+      "en": [
+        "For years, an Israeli AgriPV project had to promise that farming would continue under its panels. In September 2026, two regulators drafted what happens if it doesn’t. The Ministry of Agriculture published a draft procedure defining “[[optimal-agricultural-cultivation|optimal agricultural cultivation]]”. The Electricity Authority opened a complementary hearing that ties that definition to the tariff a project is paid.",
+        "The draft sets measurable floors. A law-firm analysis published in Calcalist summarises them: yield or revenue of at least 75% of the regional norm for the same crop, the irrigation the crop needs, and at least 85% of the cultivated area kept in production. Projects that meet the floors are judged mainly on numbers. Projects that miss them move to a second track, where a ministry agronomist reviews how the crop is actually managed: irrigation, fertilisation, pruning, harvest.",
+        "Reporting becomes a yearly duty. Developers would file agricultural and financial data, drawn from field records, water meters and sensors. Late or inaccurate reports can count as non-compliance in themselves. Projects above 300 dunams would also host a 15-dunam research plot, led by a principal investigator with a doctorate.",
+        "The consequences escalate over time. Under the proposal, a first year of failure brings a warning. Two consecutive years bring a [[tariff-reduction|tariff cut]] of 5–10%, and a third year a further 15–20%. After four years, the ministry may recommend that planning authorities dismantle the facility. Developers keep a right to a hearing and a reasoned objection.",
+        "The percentages are proposals, not law. The comment period has closed, and SPFI found no final procedure or tariff decision published by 20 November 2026. Reported deadlines also differ between sources, which is another reason to wait for the final text before treating any figure as binding.",
+        "The real story is a shift in who carries agricultural risk. A developer’s revenue would now depend on what grows under the array, not only on what the array generates. That makes the contract between landowner, farmer and developer the place to watch: who pays when a crop fails, and who decides what is planted?"
+      ],
+      "he": [
+        "שנים רבות נדרש מפרויקט אגרו-וולטאי להבטיח שהחקלאות תמשיך מתחת לפאנלים. בספטמבר 2026 ניסחו שני רגולטורים מה קורה כשהיא לא ממשיכה. משרד החקלאות פרסם טיוטת נוהל המגדיר “[[optimal-agricultural-cultivation|עיבוד חקלאי מיטבי]]”, ורשות החשמל פתחה שימוע משלים שקושר את ההגדרה לתעריף שמקבל המתקן.",
+        "הטיוטה קובעת רף מדיד. לפי סיכום של משרד עורכי דין שפורסם בכלכליסט: יבול או הכנסה של לפחות 75% מהנורמה האזורית לאותו גידול, השקיה שהגידול דורש, ועיבוד של לפחות 85% מהשטח. מתקן שעומד ברף ייבחן בעיקר לפי מספרים. מתקן שלא עומד בו עובר למסלול שני, שבו אגרונום מטעם המשרד בוחן את הממשק בפועל: השקיה, דישון, גיזום וקטיף.",
+        "הדיווח הופך לחובה שנתית. היזמים יגישו נתונים חקלאיים וכספיים מרישום בשטח, ממדי מים וחיישנים. דיווח מאוחר או שגוי עלול להיחשב כאי-עמידה בפני עצמו. מתקנים מעל 300 דונם יקצו גם חלקת מחקר של 15 דונם בפיקוח חוקר ראשי בעל תואר שלישי.",
+        "הסנקציות מדורגות. לפי ההצעה, שנה ראשונה של כשל מביאה התראה. שתי שנים רצופות מביאות [[tariff-reduction|הפחתת תעריף]] של 5%–10%, ושנה שלישית — הפחתה נוספת של 15%–20%. אחרי ארבע שנים רשאי המשרד להמליץ למוסדות התכנון על פירוק המתקן. ליזם נשמרת זכות שימוע והשגה מנומקת.",
+        "האחוזים הם הצעה, לא חוק. תקופת ההערות הסתיימה, ועד 20 בנובמבר 2026 לא מצא SPFI נוהל סופי או החלטת תעריף סופית. גם מועדי ההגשה שדווחו שונים ממקור למקור — סיבה נוספת להמתין לנוסח הסופי.",
+        "הסיפור האמיתי הוא מי נושא בסיכון החקלאי. הכנסת היזם תלויה עכשיו במה שגדל מתחת למתקן, לא רק במה שהוא מייצר. לכן החוזה בין בעל הקרקע, החקלאי והיזם הוא המקום לעקוב אחריו: מי משלם כשהיבול נכשל, ומי מחליט מה נשתל?"
+      ]
+    },
+    "type": {
+      "en": "Policy explainer",
+      "he": "הסבר מדיניות"
+    },
+    "date": "2026-09-17",
+    "sources": [
+      {
+        "url": "https://www.bizportal.co.il/energy/news/article/20041802",
+        "name": "Anat Gilad, Bizportal — up to 20% tariff cut for AgriPV facilities (10 Sep 2026)"
+      },
+      {
+        "url": "https://www.calcalist.co.il/local_news/article/r1sfplyfzg",
+        "name": "Hagit Ben Moshe (Barnea Jaffa Lande), Calcalist — analysis of the draft procedure and tariff hearing (17 Sep 2026)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "optimal-agricultural-cultivation",
+        "term": {
+          "en": "Optimal agricultural cultivation",
+          "he": "עיבוד חקלאי מיטבי"
+        },
+        "definition": {
+          "en": "the Ministry of Agriculture’s test for whether farming under an AgriPV system meets minimum standards.",
+          "he": "המבחן של משרד החקלאות לשאלה אם החקלאות מתחת למתקן אגרו-וולטאי עומדת ברף המינימלי."
+        }
+      },
+      {
+        "id": "tariff-reduction",
+        "term": {
+          "en": "Tariff reduction",
+          "he": "הפחתת תעריף"
+        },
+        "definition": {
+          "en": "a cut in the price paid per kilowatt-hour, used here as a penalty.",
+          "he": "קיצוץ במחיר המשולם לכל קילוואט-שעה, המשמש כאן כסנקציה."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "agripv-wheat-lettuce-field-trials",
+    "topic": "research",
+    "title": {
+      "en": "When “dual use” loses the harvest",
+      "he": "כשהשימוש הכפול מפסיד את היבול"
+    },
+    "excerpt": {
+      "en": "A Chinese wheat field lost over 40% of its yield under a solar array. A Californian lettuce field did better in summer. The difference is the lesson for Israel.",
+      "he": "שדה חיטה בסין איבד יותר מ-40% מהיבול מתחת למערך סולארי. שדה חסה בקליפורניה הצליח יותר בקיץ. ההבדל הוא הלקח לישראל."
+    },
+    "body": {
+      "en": [
+        "AgriPV is often sold as a win-win: the same field produces food and power. Two 2026 field studies show how much depends on the crop, the season and the shade.",
+        "Wheat in Jiangsu, China. Researchers studied winter wheat under a “flexible” AgriPV system: modules strung on cables over 30-metre spans, 4 metres above the ground, so combine harvesters can pass beneath. The design worked for machines. It did not work for wheat. Panels covered 65% of the area, and monthly solar radiation reaching the crop fell by 57–62%. Over two seasons, yields were 42–47% lower than in open field, both under and between the panels. The authors name light as the main limit and recommend [[coverage-ratio|lower coverage]], wider spacing and [[shade-tolerant-crop|shade-tolerant varieties]].",
+        "Lettuce in Pomona, California. At Cal Poly Pomona’s Spadra Farm, students have grown and weighed 3,556 heads of romaine lettuce under and beside panels across five crop cycles since summer 2025. In spring, leaves under the panels lost about half as much water. Yields under panels were lower in the cooler seasons of 2025, but by summer 2026 shaded lettuce weighed as much as or more than open-field lettuce. The university calls these early results from one farm, without published statistics.",
+        "What the two have in common. Both are honest about trade-offs. Shade costs yield when light is the limiting factor: winter wheat, cool-season lettuce. Shade can pay back when heat and water are the limiting factors: summer lettuce in a hot, dry climate. Israel’s own tomato trials (see “Israel’s AgriPV evidence gap”) found the same pattern across rows: heavy shade cut yield by 40–55%, light shade barely at all.",
+        "For Israeli regulation, that suggests three things. Yield norms should be crop- and season-specific, not a single national percentage. Panel coverage and height are agricultural decisions, not only engineering ones. And the label “dual use” should come after measured results, not before."
+      ],
+      "he": [
+        "אגרו-וולטאי נמכר לעיתים קרובות כעסקה שכולם מרוויחים בה: אותו שדה מייצר מזון וחשמל. שני מחקרי שדה מ-2026 מראים כמה זה תלוי בגידול, בעונה ובצל.",
+        "חיטה בג'יאנגסו, סין. חוקרים בחנו חיטת חורף מתחת למערכת אגרו-וולטאית “גמישה”: מודולים מתוחים על כבלים על פני מפתנים של 30 מטר, בגובה 4 מטרים, כך שקומביינים עוברים מתחת. התכנון עבד בשביל המכונות, לא בשביל החיטה. הפאנלים כיסו 65% מהשטח, והקרינה החודשית שהגיעה לגידול ירדה ב-57%–62%. במשך שני עונות היבול היה נמוך ב-42%–47% מהשדה הפתוח, גם מתחת לפאנלים וגם ביניהם. החוקרים מצביעים על האור כגורם המגביל וממליצים על [[coverage-ratio|כיסוי נמוך]] יותר, מרווח רחב יותר ו[[shade-tolerant-crop|זנים סובלי צל]].",
+        "חסה בפומונה, קליפורניה. בחוות ספדרה של קל פולי פומונה גידלו ושקלו סטודנטים 3,556 ראשי חסה רומית מתחת לפאנלים ולצדם, לאורך חמישה מחזורי גידול מקיץ 2025. באביב, העלים מתחת לפאנלים איבדו כמחצית מכמות המים. היבול מתחת לפאנלים היה נמוך יותר בעונות הקרירות של 2025, אבל בקיץ 2026 החסה המוצלת שקלה כמו החסה בשדה הפתוח או יותר. האוניברסיטה מגדירה את אלה כתוצאות מוקדמות ממשק אחד, ללא סטטיסטיקה מפורסמת.",
+        "מה משותף לשניהם. שני המחקרים כנים לגבי המחיר. צל עולה ביבול כשהאור הוא הגורם המגביל: חיטת חורף, חסה בעונה קרה. צל יכול להשתלם כשהחום והמים הם הגורמים המגבילים: חסה בקיץ באקלים חם ויבש. ניסויי העגבניות בישראל (ראו „פער הראיות באגרו-וולטאי”) מצאו דפוס דומה לאורך השורות: צל כבד הפחית יבול ב-40%–55%, צל קל כמעט לא השפיע.",
+        "לרגולציה בישראל זה מרמז על שלושה דברים. נורמות יבול צריכות להיות לפי גידול ועונה, ולא אחוז ארצי אחד. כיסוי וגובה הפאנלים הם החלטות חקלאיות, לא רק הנדסיות. והתווית “שימוש כפול” צריכה לבוא אחרי תוצאות מדודות, לא לפניהן."
+      ]
+    },
+    "type": {
+      "en": "Research explained",
+      "he": "מחקר בגובה העיניים"
+    },
+    "date": "2026-10-28",
+    "sources": [
+      {
+        "url": "https://www.mdpi.com/2073-4395/16/11/1111",
+        "name": "Agronomy 16(11), 1111 — Large-span flexible PV arrays and wheat productivity: a two-year field experiment (Jun 2026)"
+      },
+      {
+        "url": "https://www.cpp.edu/agri/news/2026-agrivoltaics-conference.shtml",
+        "name": "Cal Poly Pomona — Early research: agrivoltaics show promise (28 Oct 2026)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "coverage-ratio",
+        "term": {
+          "en": "Coverage ratio",
+          "he": "שיעור כיסוי"
+        },
+        "definition": {
+          "en": "the share of ground area shaded by panels when seen from above.",
+          "he": "החלק משטח הקרקע שמוצל בפאנלים במבט מלמעלה."
+        }
+      },
+      {
+        "id": "shade-tolerant-crop",
+        "term": {
+          "en": "Shade-tolerant crop",
+          "he": "גידול סובל צל"
+        },
+        "definition": {
+          "en": "a crop whose yield falls little when light is reduced.",
+          "he": "גידול שיבולו יורד מעט כשהאור מופחת."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "alpacas-solar-grazing",
     "topic": "people",
     "title": {
@@ -732,6 +955,85 @@
     "images": []
   },
   {
+    "id": "china-solar-technology-export-controls",
+    "topic": "research",
+    "title": {
+      "en": "China locks up the recipe, not the panels",
+      "he": "סין נועלת את המתכון, לא את הפאנלים"
+    },
+    "excerpt": {
+      "en": "China has proposed banning exports of its most advanced solar-manufacturing know-how. Israeli projects can still buy panels. Israeli factories and licensing deals may find the door closing.",
+      "he": "סין הציעה לאסור ייצוא של הידע המתקדם ביותר שלה לייצור סולארי. פרויקטים בישראל עדיין יכולים לקנות פאנלים. מפעלים ועסקאות רישוי ישראליות עלולים למצוא את הדלת נסגרת."
+    },
+    "body": {
+      "en": [
+        "Almost every solar panel on an Israeli roof or field was made with Chinese technology. On 16 October 2026, China’s commerce and science ministries proposed adding 12 photovoltaic manufacturing technologies to the country’s catalogue of technologies prohibited or restricted from export. The proposal is part of a wider list of 40 technologies, including AI and biomedicine.",
+        "What would be banned. Proposed outright prohibitions cover manufacturing processes for perovskite and [[perovskite-silicon-tandem|perovskite-silicon tandem]] cells and modules, the next generation of high-efficiency solar. They also cover very large fluidised-bed [[polysilicon|polysilicon]] plants (lines of at least 250,000 tonnes a year) and wafers 70 micrometres thick or thinner.",
+        "What would be restricted. Licences would be required for polysilicon engineering for lines of at least 30,000 tonnes a year, wafers of 130 micrometres or less, and high-efficiency [[topcon-hjt-xbc|TOPCon]], back-contact (xBC) and heterojunction (HJT) cell manufacturing. Associated key equipment is included. Exporters must already pre-register covered transfers: that interim requirement took effect immediately. The public consultation closed on 15 November; SPFI found no final catalogue by 20 November.",
+        "What it means for Israel. The controls target know-how and production equipment, not finished panels. Israeli developers buying modules for farms, roofs and canopies should see little direct effect, at least for now. The impact falls on a different group: anyone trying to manufacture cells or specialised modules outside China, or to license Chinese process technology. That includes the lightweight, flexible and building-integrated products that Israeli companies are developing for canopies and weak roofs (see “Shade as public infrastructure”), and any plan to localise part of the supply chain.",
+        "Two practical questions follow. Should long-lived public projects specify performance and replaceable parts rather than one supplier’s cell technology? And should Israeli research and manufacturing policy plan for a world in which the most advanced production recipes are no longer for sale?"
+      ],
+      "he": [
+        "כמעט כל פאנל סולארי על גג או בשדה בישראל יוצר בטכנולוגיה סינית. ב-16 באוקטובר 2026 הציעו משרדי המסחר והמדע של סין להוסיף 12 טכנולוגיות לייצור פוטו-וולטאי לרשימת הטכנולוגיות שייצואן אסור או מוגבל. ההצעה היא חלק מרשימה רחבה של 40 טכנולוגיות, כולל בינה מלאכותית וביו-רפואה.",
+        "מה ייאסר. האיסורים המוצעים חלים על תהליכי ייצור של תאים ומודולים מפרובסקיט ומ[[perovskite-silicon-tandem|פרובסקיט-סיליקון]] (טנדם) — הדור הבא של הסולאר היעיל. הם חלים גם על מפעלי [[polysilicon|פוליסיליקון]] ענקיים (קווים של 250 אלף טון בשנה ומעלה) ועל פרוסות בעובי 70 מיקרון ומטה.",
+        "מה יוגבל. רישיון יידרש להנדסת פוליסיליקון לקווים של 30 אלף טון בשנה ומעלה, לפרוסות של 130 מיקרון ומטה, ולייצור תאים יעילים מסוג [[topcon-hjt-xbc|TOPCon]], xBC ו-HJT. הציוד המרכזי שנלווה אליהם כלול. מייצאים כבר חייבים לרשום מראש העברות של טכנולוגיות אלה: דרישה זמנית זו נכנסה לתוקף מייד. השימוע הציבורי נסגר ב-15 בנובמבר; עד 20 בנובמבר SPFI לא מצא רשימה סופית.",
+        "מה זה אומר לישראל. הפיקוח מכוון לידע ולציוד ייצור, לא לפאנלים מוגמרים. יזמים ישראלים שקונים מודולים למשקים, לגגות ולקירויים אמורים להרגיש השפעה ישירה קטנה, לפחות בשלב זה. ההשפעה נופלת על קבוצה אחרת: מי שמנסה לייצר תאים או מודולים מיוחדים מחוץ לסין, או לרכוש רישיון לטכנולוגיה סינית. זה כולל מוצרים קלים, גמישים ומשולבי מבנה שחברות ישראליות מפתחות לקירויים ולגגות חלשים (ראו „צל כתשתית ציבורית”), וכל תוכנית להעברת חלק משרשרת האספקה לארץ.",
+        "מכאן עולות שתי שאלות מעשיות. האם פרויקטים ציבוריים ארוכי טווח צריכים להגדיר במכרז ביצועים ורכיבים ניתנים להחלפה, במקום טכנולוגיית תאים של ספק אחד? והאם מדיניות המחקר והתעשייה בישראל צריכה להתכונן לעולם שבו מתכוני הייצור המתקדמים כבר אינם עומדים למכירה?"
+      ]
+    },
+    "type": {
+      "en": "Technology explained",
+      "he": "טכנולוגיה בגובה העיניים"
+    },
+    "date": "2026-10-19",
+    "sources": [
+      {
+        "url": "https://news.metal.com/newscontent/104165292-smm-pv-flash-china-proposes-export-controls-on-12-solar-pv-manufacturing-technologies",
+        "name": "SMM — China proposes export controls on 12 solar PV manufacturing technologies (19 Oct 2026)"
+      },
+      {
+        "url": "https://www.pv-magazine.com/2026/10/16/china-proposes-ban-on-exports-of-perovskite-tandem-solar-manufacturing-technology/",
+        "name": "pv magazine — China proposes ban on exports of perovskite, tandem solar manufacturing technology (16 Oct 2026)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "perovskite-silicon-tandem",
+        "term": {
+          "en": "Perovskite-silicon tandem",
+          "he": "טנדם פרובסקיט-סיליקון"
+        },
+        "definition": {
+          "en": "a cell that stacks a perovskite layer on silicon to capture more of the light spectrum.",
+          "he": "תא שמניח שכבת פרובסקיט על סיליקון כדי לנצל חלק גדול יותר מספקטרום האור."
+        }
+      },
+      {
+        "id": "topcon-hjt-xbc",
+        "term": {
+          "en": "TOPCon, HJT, xBC",
+          "he": "TOPCon, HJT, xBC"
+        },
+        "definition": {
+          "en": "today’s leading high-efficiency silicon cell designs.",
+          "he": "תכנוני תאי הסיליקון היעילים המובילים כיום."
+        }
+      },
+      {
+        "id": "polysilicon",
+        "term": {
+          "en": "Polysilicon",
+          "he": "פוליסיליקון"
+        },
+        "definition": {
+          "en": "the purified silicon from which wafers are cut.",
+          "he": "הסיליקון המטוהר שממנו חותכים את הפרוסות."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "cmblu-long-duration-storage",
     "topic": "storage",
     "title": {
@@ -1052,6 +1354,89 @@
         "definition": {
           "en": "Accounting for water entering, leaving and changing storage in an area.",
           "he": "רישום כניסת מים, יציאתם והשינוי באגירתם בשטח."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "electricity-authority-connection-rules-2026",
+    "topic": "industry",
+    "title": {
+      "en": "The grid decides",
+      "he": "הרשת מחליטה"
+    },
+    "excerpt": {
+      "en": "Three Electricity Authority moves in October and November 2026 decide which solar projects can connect, how much they earn, and who pays when the grid can’t take their power.",
+      "he": "שלושה מהלכים של רשות החשמל באוקטובר–נובמבר 2026 קובעים אילו מתקנים יתחברו, כמה ירוויחו, ומי משלם כשהרשת לא יכולה לקלוט את החשמל."
+    },
+    "body": {
+      "en": [
+        "The cheapest part of a solar project is often the panels. The hard part is the connection: the right to push electricity into a crowded grid and be paid for it. Between October and November 2026, Israel’s Electricity Authority made three moves that rewrite those rights for large and small projects alike.",
+        "Large projects: more room, less certainty. Decision 75104, dated 18 October, opens a second 2,000 MW quota for renewable plants, including storage, connected to the transmission grid. It runs until filled or until 30 June 2028. But a connection study can now limit how much a plant may export or charge. During such a constraint period the plant is not compensated for energy it cannot produce. The decision also cuts the [[capacity-credit|capacity credit]] for storage beyond the plant’s solar output to 15%. In plain terms, a megawatt of connection no longer guarantees a megawatt of income.",
+        "Small and mid-size projects: a falling tariff and a queue that costs money. A consultation published on 19 October proposes extending the low-voltage framework to 2030. The tariff would drop in two steps during 2027 and then about 5% a year. The size ceiling for tariff support would shrink from 630 kW in 2027 to 300 kW in 2030; larger systems would sell through the market, including via private electricity suppliers who receive a premium. From January 2028, scarce grid capacity would be allocated by economic contribution rather than first-come, first-served. Rooftops up to 15 kW keep their fast track. The Authority’s own figures show about 2,323 MW already connected under the current framework.",
+        "Built-up areas: a premium with an end date. A separate consultation proposes letting generation and generation-plus-storage projects join the [[urban-premium|urban premium]], a bonus for projects near demand centres, until the end of 2030. Payments would stop on 31 December 2037, so slower projects would earn the premium for fewer years.",
+        "Together these rules reward projects that are fast, flexible and close to consumption. That favours industrial roofs with their own load and storage. It may disadvantage public canopies and municipal buildings, whose procurement is slow and whose structures cost more per kilowatt. SPFI will test the final decisions against those cases."
+      ],
+      "he": [
+        "החלק הזול במתקן סולארי הוא לעיתים קרובות הפאנלים. החלק הקשה הוא החיבור: הזכות להזרים חשמל לרשת עמוסה ולקבל עליו תשלום. בין אוקטובר לנובמבר 2026 עשתה רשות החשמל שלושה מהלכים שמשנים את הזכויות האלה למתקנים גדולים וקטנים.",
+        "מתקנים גדולים: יותר מקום, פחות ודאות. החלטה 75104 מ-18 באוקטובר פותחת מכסה שנייה של 2,000 מגה-וואט למתקני אנרגיה מתחדשת, כולל אגירה, המחוברים לרשת ההולכה, עד למיצויה או עד 30 ביוני 2028. אבל סקר חיבור יכול עכשיו להגביל את ההזרמה או הטעינה של המתקן, ובתקופת המגבלה המתקן לא מקבל פיצוי על אנרגיה שלא יכל לייצר. ההחלטה גם מקטינה ל-15% את [[capacity-credit|מקדם הזמינות]] של אגירה מעבר להספק הסולארי. במילים פשוטות: מגה-וואט של חיבור כבר אינו מבטיח מגה-וואט של הכנסה.",
+        "מתקנים קטנים ובינוניים: תעריף יורד ותור שעולה כסף. שימוע מ-19 באוקטובר מציע להאריך את אסדרת המתח הנמוך עד 2030. התעריף ירד בשני שלבים ב-2027 ולאחר מכן בכ-5% בשנה. תקרת ההספק לתמיכה תרד מ-630 קילוואט ב-2027 ל-300 קילוואט ב-2030; מתקנים גדולים יותר ימכרו בשוק, גם דרך מספקי חשמל פרטיים שמקבלים פרמיה. מינואר 2028 תוקצה קיבולת רשת מוגבלת לפי תרומה כלכלית ולא לפי סדר הגעה. גגות עד 15 קילוואט נשארים במסלול המהיר. לפי נתוני הרשות, כבר מחוברים כ-2,323 מגה-וואט באסדרה הקיימת.",
+        "שטחים בנויים: פרמיה עם תאריך תפוגה. שימוע נפרד מציע לאפשר למתקני ייצור וייצור-ואגירה להצטרף ל[[urban-premium|פרמיה האורבנית]] עד סוף 2030. התשלומים ייפסקו ב-31 בדצמבר 2037, כך שמתקן איטי יותר יקבל פרמיה לפחות שנים.",
+        "יחד הכללים האלה מתגמלים מתקנים מהירים, גמישים וקרובים לצריכה. זה מיטיב עם גגות תעשייתיים עם צריכה עצמית ואגירה, ועלול לפגוע בקירויים ציבוריים ובמבני רשות, שהרכש שלהם איטי והמבנה שלהם יקר יותר לקילוואט. SPFI יבחן את ההחלטות הסופיות מול המקרים האלה."
+      ]
+    },
+    "type": {
+      "en": "Policy explainer",
+      "he": "הסבר מדיניות"
+    },
+    "date": "2026-10-19",
+    "sources": [
+      {
+        "url": "https://www.gov.il/BlobFolder/policy/75104/he/Files_Hachlatot_75104.pdf",
+        "name": "Electricity Authority — Decision 75104, additional transmission quota (18 Oct 2026, PDF)"
+      },
+      {
+        "url": "https://www.bizportal.co.il/energy/news/article/20045246",
+        "name": "Merav Ard, Bizportal — the Authority’s new low-voltage path to 2030 (19 Oct 2026)"
+      },
+      {
+        "url": "https://www.gov.il/BlobFolder/rfp/shim_asdara_namuch_19102026/he/Files_Shimuah_shim_asdara_namuch_malle.pdf",
+        "name": "Electricity Authority — low-voltage consultation, full text (PDF)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "curtailment",
+        "term": {
+          "en": "Curtailment",
+          "he": "קיטום"
+        },
+        "definition": {
+          "en": "a forced reduction of a plant’s output because the grid can’t absorb it.",
+          "he": "הפחתה כפויה של תפוקת המתקן משום שהרשת אינה יכולה לקלוט אותה."
+        }
+      },
+      {
+        "id": "capacity-credit",
+        "term": {
+          "en": "Capacity credit",
+          "he": "מקדם זמינות"
+        },
+        "definition": {
+          "en": "the share of a plant’s capacity the system counts on during peak demand.",
+          "he": "החלק מהספק המתקן שהמערכת סופרת עליו בשעות שיא הביקוש."
+        }
+      },
+      {
+        "id": "urban-premium",
+        "term": {
+          "en": "Urban premium",
+          "he": "פרמיה אורבנית"
+        },
+        "definition": {
+          "en": "an extra payment for generation built in or near built-up areas.",
+          "he": "תשלום נוסף על ייצור שנבנה בתוך שטחים בנויים או בסמוך להם."
         }
       }
     ],
@@ -1517,6 +1902,83 @@
     "images": []
   },
   {
+    "id": "ila-land-records-solar",
+    "topic": "agripv",
+    "title": {
+      "en": "The land paper trail",
+      "he": "שביל הניירת של הקרקע"
+    },
+    "excerpt": {
+      "en": "Before a solar field appears in the news, it appears in a land record. Israel Land Authority notices from October and November 2026 show where projects are quietly moving.",
+      "he": "לפני ששדה סולארי מופיע בחדשות, הוא מופיע ברישום קרקע. הודעות רמ\"י מאוקטובר–נובמבר 2026 מראות לאן פרויקטים נעים בשקט."
+    },
+    "body": {
+      "en": [
+        "Most Israeli land is state land, managed by the Israel Land Authority (ILA). Before anyone can build on it, the ILA must grant a right: a short [[use-authorisation|use authorisation]], a lease, or a [[development-to-lease|development agreement]] that turns into a lease once the project is built. Many of these are signed without a public tender, and the ILA publishes a notice of each one. Those notices are a quiet early signal of where solar is heading.",
+        "The rules behind the records. ILA policy lets an agricultural settlement build ground-mounted solar on up to 250 dunams of its land, and AgriPV on up to 500 dunams. Settlements on the “[[confrontation-line|confrontation line]]” near the borders get more: up to 400 dunams of ground solar and up to 1,500 dunams of AgriPV through joint ventures, until the end of 2028. A November 2025 ILA management decision proposed letting them convert unused ground-solar quota into AgriPV, one-for-one. It still needed the ILA Council’s approval.",
+        "The big records. The radar flagged two large development-to-lease agreements with Shikun & Binui Energy partnerships in the Eshkol region near Gaza. Tze’elim covers about 882,000 m² (882 dunams) under National Infrastructure Plan 51, with consideration of about NIS 33 million. Magen 1 covers about 180,000 m². A separate authorisation at Kibbutz Eilot in the Arava covers about 251,000 m² for AgriPV.",
+        "The small records. Between 1 and 19 November, notices appeared for Nir Israel, Rosh Hanikra, Nahalal, Hazorim, Olesh and Kfar Yehoshua. Most cover about 1,000 m²; Rosh Hanikra covers about 4,700 m². None says what will be built: a roof, a yard array, a field system or a farm structure.",
+        "A land right is not a permit, a grid connection or a construction start. The notices omit capacity, technology, developer plans and whether farming continues. Their value is as a map: matched to parcels, plans and satellite images, they show which villages are moving towards solar, and where large projects will claim open land, before any press release.",
+        "SPFI will treat each record as the first line of a project file, then look for the plan, the permit and the connection."
+      ],
+      "he": [
+        "רוב הקרקע בישראל היא קרקע מדינה שמנהלת רשות מקרקעי ישראל. לפני שמישהו בונה עליה, רמ\"י צריכה להעניק זכות: [[use-authorisation|הרשאה לשימוש]], חכירה, או [[development-to-lease|הסכם פיתוח]] שהופך לחכירה אחרי ההקמה. רבות מהן נחתמות ללא מכרז, ורמ\"י מפרסמת הודעה על כל אחת. ההודעות האלה הן סימן מוקדם ושקט לכיוון שאליו נע הסולאר.",
+        "הכללים שמאחורי הרישומים. מדיניות רמ\"י מאפשרת לישוב חקלאי להקים סולאר קרקעי על עד 250 דונם מאדמותיו, ואגרו-וולטאי על עד 500 דונם. ישובי [[confrontation-line|קו העימות]] מקבלים יותר: עד 400 דונם סולאר קרקעי ועד 1,500 דונם אגרו-וולטאי במיזם משותף, עד סוף 2028. החלטת הנהלת רמ\"י מנובמבר 2025 הציעה לאפשר להם להמיר מכסת סולאר קרקעי שלא נוצלה לאגרו-וולטאי, דונם תמורת דונם, בכפוף לאישור מועצת רמ\"י.",
+        "הרישומים הגדולים. הרדאר סימן שני הסכמי פיתוח לחכירה גדולים עם שותפויות של שיכון ובינוי אנרגיה במועצה האזורית אשכול. צאלים משתרע על כ-882 דונם מכוח תת\"ל 51, בתמורה של כ-33 מיליון ש\"ח. מגן 1 משתרע על כ-180 דונם. הרשאה נפרדת בקיבוץ אילות שבערבה מכסה כ-251 דונם לאגרו-וולטאי.",
+        "הרישומים הקטנים. בין 1 ל-19 בנובמבר פורסמו הודעות על ניר ישראל, ראש הנקרה, נהלל, חזורים, עולש וכפר יהושע. רובן מכסות כדונם אחד; ראש הנקרה מכסה כ-4.7 דונם. אף אחת לא מפרטת מה ייבנה: גג, מערכ בחצר, מערכת שדה או מבנה חקלאי.",
+        "זכות בקרקע אינה היתר, חיבור לרשת או תחילת בנייה. ההודעות לא מציינות הספק, טכנולוגיה, תכניות יזם או האם החקלאות ממשיכה. ערכן הוא כמפה: כשמצלבים אותן עם חלקות, תכניות ותצלומי לווין, הן מראות אילו ישובים נעים לסולאר, ואיפה פרויקטים גדולים יתפסו שטח פתוח — לפני כל הודעה לעיתונות.",
+        "SPFI יתייחס לכל רישום כשורה הראשונה בתיק פרויקט, ויחפש אחריה את התכנית, ההיתר והחיבור."
+      ]
+    },
+    "type": {
+      "en": "Data explainer",
+      "he": "הסבר נתונים"
+    },
+    "date": "2026-11-15",
+    "sources": [
+      {
+        "url": "https://www.gov.il/BlobFolder/policy/hanhala-5875/he/council_hanhala_hanhala-5875.pdf",
+        "name": "Israel Land Authority — Management decision 5875 on AgriPV quotas for confrontation-line settlements (12 Nov 2025, PDF)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "use-authorisation",
+        "term": {
+          "en": "Use authorisation",
+          "he": "הרשאה לשימוש"
+        },
+        "definition": {
+          "en": "a limited right to use state land for a stated purpose.",
+          "he": "זכות מוגבלת להשתמש בקרקע מדינה למטרה מוגדרת."
+        }
+      },
+      {
+        "id": "development-to-lease",
+        "term": {
+          "en": "Development-to-lease agreement",
+          "he": "הסכם פיתוח לחכירה"
+        },
+        "definition": {
+          "en": "a deal under which a lease is granted once the developer completes the project.",
+          "he": "עסקה שבה החכירה ניתנת לאחר שהיזם משלים את הפרויקט."
+        }
+      },
+      {
+        "id": "confrontation-line",
+        "term": {
+          "en": "Confrontation line",
+          "he": "קו העימות"
+        },
+        "definition": {
+          "en": "settlements near Israel’s borders that receive special land and planning provisions.",
+          "he": "ישובים סמוכים לגבולות ישראל שזוכים להסדרי קרקע ותכנון מיוחדים."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "israel-100000-solar-roofs-programme",
     "topic": "people",
     "title": {
@@ -1860,6 +2322,95 @@
         "definition": {
           "en": "The process of bringing research-based knowledge or technology into products or services.",
           "he": "התהליך שבו ידע או טכנולוגיה המבוססים על מחקר הופכים למוצרים או לשירותים."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "israel-agripv-evidence-gap",
+    "topic": "research",
+    "title": {
+      "en": "Israel’s AgriPV evidence gap",
+      "he": "פער הראיות באגרו-וולטאי"
+    },
+    "excerpt": {
+      "en": "Israel is writing AgriPV rules for thousands of dunams. The public, measured evidence for how Israeli crops behave under panels still fits on a few pages.",
+      "he": "ישראל כותבת כללי אגרו-וולטאי לאלפי דונמים. הראיות הציבוריות והמדודות על גידולים ישראליים מתחת לפאנלים עדיין נכנסות בכמה עמודים."
+    },
+    "body": {
+      "en": [
+        "The new AgriPV procedure will judge farms against yield norms (see “AgriPV gets a referee”). That raises a simple question: what do we actually know about Israeli crops under Israeli panels?",
+        "The clearest result is about tomatoes. In 2022 and 2023, researchers at Bar-Ilan University grew [[processing-tomato|processing tomatoes]] in seven rows between two PV arrays and measured what happened at different distances from the panels. The study was published in Scientific Reports in December 2025. According to Tomato News’s summary, rows in heavy shade directly under the panels yielded 40–55% less than open field. Moderately shaded rows lost about 10–20%, and rows in near-full sun lost little or nothing. Sugar content stayed mostly stable, but [[dry-matter|dry matter]] fell in heavy shade, which matters to paste processors. Shaded plants also had weaker roots and more powdery mildew. With electricity income counted, revenue per area was nine to ten times that of tomatoes alone.",
+        "That combination is the honest picture: AgriPV can make a field far more profitable while making part of it agriculturally worse. Under the draft rules, the bottom rows could decide a project’s tariff.",
+        "The largest programme has not published results. Israel’s national pilot was announced as about 120 AgriPV pilot plots with roughly $5 million of government support. The radar cites an Israel–Germany workshop summary describing nine technologies across those plots. SPFI found no public site list, protocol or interim dataset.",
+        "Greenhouses offer a different route. The EU-funded REGACE project hangs PV inside existing greenhouses. An August 2025 summary by Tel Aviv University’s Liron Amdur reports about 48 kg of steel per kW in the research greenhouses versus about 103 kg/kW in Israeli open-field AgriPV, and investment of about €921/kW versus €1,200/kW. A model farm at Zemer has two 500 m² greenhouses of tomatoes and cucumbers under monitored PV since July 2025. No yield figures have been published yet.",
+        "The gap matters because regulation is moving faster than evidence. Crop-specific results should come before crop-specific rules. SPFI would like to see the national pilot publish its plots, crops, geometry and raw results, including the combinations that failed."
+      ],
+      "he": [
+        "הנוהל האגרו-וולטאי החדש ישפוט משקים מול נורמות יבול (ראו „לאגרו-וולטאי יש שופט”). מכאן שאלה פשוטה: מה באמת ידוע על גידולים ישראליים מתחת לפאנלים ישראליים?",
+        "התוצאה הברורה ביותר עוסקת בעגבניות. ב-2022 ו-2023 גידלו חוקרים באוניברסיטת בר-אילן [[processing-tomato|עגבניות תעשייה]] בשבע שורות בין שני מערכי פאנלים, ומדדו מה קורה במרחקים שונים מהם. המחקר פורסם ב-Scientific Reports בדצמבר 2025. לפי סיכום של Tomato News, שורות בצל כבד מתחת לפאנלים הניבו 40%–55% פחות משדה פתוח. שורות בצל בינוני איבדו כ-10%–20%, ושורות בשמש כמעט מלאה כמעט לא איבדו. תכולת הסוכר נשארה יציבה, אבל [[dry-matter|החומר היבש]] ירד בצל כבד — נתון חשוב למפעלי רסק. לצמחים המוצלים היו גם שורשים חלשים יותר ויותר קמחון. כשמוסיפים את הכנסות החשמל, ההכנסה ליחידת שטח הייתה פי תשעה עד עשרה מעגבניות בלבד.",
+        "זו התמונה הכנה: אגרו-וולטאי יכול להפוך שדה לרווחי בהרבה, ובאותו זמן לפגוע בחקלאות בחלק ממנו. לפי טיוטת הכללים, השורות החלשות עלולות לקבוע את התעריף של המתקן כולו.",
+        "התוכנית הגדולה ביותר לא פרסמה תוצאות. הפיילוט הלאומי הוכרז כ-120 חלקות פיילוט אגרו-וולטאיות עם כ-5 מיליון דולר תמיכה ממשלתית. הרדאר מצטט סיכום סדנה ישראלית-גרמנית שמתאר תשע טכנולוגיות בחלקות אלה. SPFI לא מצא רשימת אתרים, פרוטוקול או נתוני ביניים פומביים.",
+        "חממות מציעות דרך אחרת. פרויקט REGACE במימון האיחוד האירופי תולה פאנלים בתוך חממות קיימות. סיכום מאוגוסט 2025 של לירון אמדור מאוניברסיטת תל אביב מדווח על כ-48 ק\"ג פלדה לקילוואט בחממות המחקר, לעומת כ-103 ק\"ג באגרו-וולטאי בשדה פתוח בישראל, ועל השקעה של כ-921 אירו לקילוואט לעומת 1,200. במשק הדגמה בזמר פועלות מיולי 2025 שתי חממות של 500 מ\"ר עם עגבניות ומלפפונים מתחת לפאנלים מנוטרים. נתוני יבול עדיין לא פורסמו.",
+        "הפער חשוב כי הרגולציה מתקדמת מהר יותר מהראיות. תוצאות לפי גידול צריכות לבוא לפני כללים לפי גידול. SPFI רוצה לראות את הפיילוט הלאומי מפרסם חלקות, גידולים, גיאומטריה ותוצאות גולמיות — כולל השילובים שנכשלו."
+      ]
+    },
+    "type": {
+      "en": "Research explained",
+      "he": "מחקר בגובה העיניים"
+    },
+    "date": "2025-12-19",
+    "sources": [
+      {
+        "url": "https://now.solar/2025/12/20/agri-photovoltaic-technology-allows-dual-use-of-land-for-tomato-production-and-electricity-generation-scientific-reports-nature/",
+        "name": "Naim, Ladell & Cohen — Scientific Reports 15, 43717 (Dec 2025), via Now.Solar mirror"
+      },
+      {
+        "url": "https://tomatonews.com/?p=153526",
+        "name": "Sophie Colvine, Tomato News — summary of the Bar-Ilan trials (19 Dec 2025)"
+      },
+      {
+        "url": "https://israelagri.com/?p=11143",
+        "name": "Liron Amdur, IsraelAgri — Evaluating the sustainability of agrovoltaic systems (31 Aug 2025)"
+      },
+      {
+        "url": "https://www.israel21c.org/?p=133359",
+        "name": "ISRAEL21c — government invests in 120 agrivoltaic pilots"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "processing-tomato",
+        "term": {
+          "en": "Processing tomato",
+          "he": "עגבניות תעשייה"
+        },
+        "definition": {
+          "en": "tomatoes grown for paste and sauce, harvested by machine.",
+          "he": "עגבניות שמגדלים לרסק ולרטבים ונקטפות במכונה."
+        }
+      },
+      {
+        "id": "dry-matter",
+        "term": {
+          "en": "Dry matter",
+          "he": "חומר יבש"
+        },
+        "definition": {
+          "en": "the solid share of fruit after water is removed.",
+          "he": "החלק המוצק של הפרי לאחר הוצאת המים."
+        }
+      },
+      {
+        "id": "land-equivalent-ratio",
+        "term": {
+          "en": "Land Equivalent Ratio",
+          "he": "יחס שוויון קרקע (LER)"
+        },
+        "definition": {
+          "en": "how much land separate farming and solar would need to match the combined output of one AgriPV site.",
+          "he": "כמה קרקע היו דורשים חקלאות וסולאר נפרדים כדי להשתוות לתפוקה המשולבת של אתר אגרו-וולטאי אחד."
         }
       }
     ],
@@ -2362,6 +2913,70 @@
     "images": []
   },
   {
+    "id": "kibbutz-assembly-solar-land-deals",
+    "topic": "people",
+    "title": {
+      "en": "The kibbutz vote",
+      "he": "ההצבעה בקיבוץ"
+    },
+    "excerpt": {
+      "en": "A new procedure for kibbutzim and moshavim sends land deals to the general assembly before signing. For farm solar, the members’ meeting becomes part of the project.",
+      "he": "נוהל חדש לקיבוצים ולמושבים מעביר עסקאות קרקע לאישור האסיפה הכללית לפני החתימה. בסולאר חקלאי, אסיפת החברים הופכת לחלק מהפרויקט."
+    },
+    "body": {
+      "en": [
+        "Much of Israel’s AgriPV potential sits on land farmed by kibbutzim and moshavim. These communities are [[cooperative-society|cooperative societies]], and their dealings are overseen by the Registrar of Cooperative Societies. In September 2026 the Registrar published a new procedure on how a cooperative chooses partners, negotiates and signs contracts. It replaces a 2021 version.",
+        "The procedure does not mention solar. It matters to solar because of how it defines a [[material-transaction|material transaction]]. Any deal concerning real estate, other than a residential lease, qualifies. So does any deal outside routine business, any deal with an office holder, and any deal above a value threshold each cooperative sets for itself. A long lease or option for an AgriPV array, a storage yard or a ground-mounted plant fits that description. A law firm, Erdinast Ben Nathan Toledano, reached the same reading in a client summary cited by the radar.",
+        "Material transactions must be approved by the general assembly before signing. The draft agreement has to be attached to the meeting’s agenda so members can read it first. Members with a conflict of interest must declare it, leave the room and stay out of the vote, and the cooperative’s legal adviser must give a written opinion. Splitting one deal into smaller ones to avoid the assembly is forbidden. The board must also choose counterparties through a uniform written invitation and record its reasons.",
+        "For developers, this adds a visible step that cannot be negotiated away in a back office. For members, it creates a moment to ask the questions that last for 20 or 25 years. Which crops will continue under the panels? Who carries the loss if the new AgriPV rules cut the tariff? What happens to the land at the end of the lease?",
+        "A vote is only as good as the information in front of it. The procedure guarantees that members see the contract. It does not guarantee they see an agricultural plan, a landscape drawing or a risk analysis. SPFI will watch whether developers start bringing those to the assembly too."
+      ],
+      "he": [
+        "חלק ניכר מהפוטנציאל האגרו-וולטאי בישראל נמצא בקרקע שמעבדים קיבוצים ומושבים. אלה [[cooperative-society|אגודות שיתופיות]], ועסקאותיהן נתונות לפיקוח רשם האגודות השיתופיות. בספטמבר 2026 פרסם הרשם נוהל חדש לאופן שבו אגודה בוחרת שותפים, מנהלת מו״מ וחותמת על הסכמים. הוא מחליף נוסח משנת 2021.",
+        "הנוהל אינו מזכיר סולאר. הוא חשוב לסולאר בגלל ההגדרה של [[material-transaction|עסקה מהותית]]: כל עסקה במקרקעין, למעט שכירות למגורים; כל עסקה שאינה שוטפת; עסקה עם נושא משרה; ועסקה מעל סף שכל אגודה קובעת לעצמה. חכירה או אופציה ארוכת טווח למתקן אגרו-וולטאי, לאגירה או למתקן קרקעי עונות לתיאור הזה. משרד עורכי הדין ארדינסט בן נתן טולדנו הגיע לאותה קריאה בסיכום ללקוחות.",
+        "עסקה מהותית חייבת אישור האסיפה הכללית לפני החתימה, וטיוטת ההסכם נצרפת לסדר היום כדי שהחברים יקראו אותה מראש. חבר בניגוד עניינים חייב להצהיר על כך, לצאת מהדיון ולא להצביע, והיועץ המשפטי נדרש לחוות דעה בכתב. אסור לפצל עסקה כדי לעקוף את האסיפה. ההנהלה נדרשת לבחור צד לעסקה באמצעות פנייה אחידה בכתב ולתעד את נימוקיה.",
+        "ליזמים זה שלב גלוי שאי אפשר לסגור במשרד סגור. לחברים זו הזדמנות לשאול את השאלות שילוו אותם 20 או 25 שנה: אילו גידולים ימשיכו מתחת לפאנלים? מי סופג את ההפסד אם כללי האגרו-וולטאי החדשים יפחיתו את התעריף? מה יקרה לקרקע בסוף החכירה?",
+        "הצבעה טובה רק כמידע שמונח לפניה. הנוהל מבטיח שהחברים יראו את החוזה. הוא אינו מבטיח שיראו תוכנית חקלאית, הדמיה נופית או ניתוח סיכונים. SPFI יעקוב אם יזמים יתחילו להביא גם אותם לאסיפה."
+      ]
+    },
+    "type": {
+      "en": "People & practice",
+      "he": "אנשים ועשייה"
+    },
+    "date": "2026-09-23",
+    "sources": [
+      {
+        "url": "https://www.gov.il/BlobFolder/policy/procurement-procedure-agudot/he/pirsomim_Agudot-web_Procurement-Procedure-agudot230926.pdf",
+        "name": "Registrar of Cooperative Societies — Cooperative engagement procedure 2026 (PDF)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "cooperative-society",
+        "term": {
+          "en": "Cooperative society",
+          "he": "אגודה שיתופית"
+        },
+        "definition": {
+          "en": "the legal form of most kibbutzim and moshavim, supervised by the Registrar.",
+          "he": "הצורה המשפטית של רוב הקיבוצים והמושבים, בפיקוח רשם האגודות השיתופיות."
+        }
+      },
+      {
+        "id": "material-transaction",
+        "term": {
+          "en": "Material transaction",
+          "he": "עסקה מהותית"
+        },
+        "definition": {
+          "en": "a deal that must be approved by the members’ general assembly.",
+          "he": "עסקה שחייבת אישור של האסיפה הכללית של החברים."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "maale-gilboa-grapes-first-season",
     "topic": "agripv",
     "title": {
@@ -2533,6 +3148,148 @@
     "images": []
   },
   {
+    "id": "municipal-solar-framework-tenders",
+    "topic": "industry",
+    "title": {
+      "en": "One tender, many surfaces",
+      "he": "מכרז אחד, הרבה משטחים"
+    },
+    "excerpt": {
+      "en": "Israeli councils have stopped buying solar one roof at a time. Framework tenders now bundle farms, reservoirs, cycle paths and batteries, and one shows what happens when nobody finishes the job.",
+      "he": "רשויות בישראל הפסיקו לרכוש סולאר גג אחר גג. מכרזי מסגרת מאגדים שדות, מאגרים, שבילי אופניים וסוללות — ואחד מהם מראה מה קורה כשאיש לא מסיים את העבודה."
+    },
+    "body": {
+      "en": [
+        "A few years ago a council bought a solar system for the school roof. In 2026 councils are increasingly buying a contractor for everything at once. The legal tool is a [[framework-tender|framework tender]]: one competition picks a supplier, and each council later orders individual projects from it, with no obligation to order any.",
+        "The largest example SPFI found is the Coastal Plain municipal cluster. In July 2026 Golden Energy reported that its subsidiary Elgy Power had won the cluster’s framework as sole supplier for 16 local authorities, municipal companies, local planning committees and cooperatives. The scope reads like a catalogue of surfaces: AgriPV on farmland, floating PV on reservoirs, storage yards and solar roofs over cycle paths. The ceiling is up to NIS 1 billion over 36 months. The company estimates about 150 MW of potential. That is the winner’s estimate, not an order book.",
+        "The pattern repeats. Tamar Regional Council, by the Dead Sea, opened a framework for PV, storage and solar canopies in October 2026; the radar reports its deadline extended to 13 December. Kafr Qasim tendered “energy independence” projects with a corrected pack due 25 November. Savyon is buying a high-voltage battery facility, due 1 December. Emek HaYarden, Merom HaGalil and Sdot Dan have run similar combined energy tenders.",
+        "The most revealing document comes from Sdot Negev Regional Council. Its August 2026 tender seeks a contractor to take over rooftop PV systems that are already built. Some have never been connected to the grid, so they produce no electricity and no income. The contractor would inspect them, finish approvals, connect them and run them for five years, paid a share of revenue.",
+        "That is the risk inside every framework. Procurement is the easy part; permits, connection, operation and maintenance decide whether a roof produces anything. A council with one energy manager and twenty sites can sign a framework in a week and still have panels sitting idle years later.",
+        "SPFI’s questions for each framework are therefore practical. Which [[call-off-order|call-off orders]] have been signed? Which sites are connected? Who reports output, and to whom?"
+      ],
+      "he": [
+        "לפני כמה שנים רשות קנתה מערכת סולארית לגג בית הספר. ב-2026 רשויות קונות יותר ויותר קבלן לכל הפרויקטים יחד. הכלי המשפטי הוא [[framework-tender|מכרז מסגרת]]: תחרות אחת בוחרת ספק, וכל רשות מזמינה ממנו בהמשך פרויקטים נפרדים, ללא חובה להזמין דבר.",
+        "הדוגמה הגדולה ביותר שמצא SPFI היא אשכול רשויות מישור החוף. ביולי 2026 דיווחה גולדן אנרג'י שהחברה הבת אלג'י פאוור זכתה כזוכה יחידה במכרז המסגרת עבור 16 רשויות, תאגידים עירוניים, ועדות מקומיות ואגודות. ההיקף נקרא כמו קטלוג של משטחים: אגרו-וולטאי בקרקע חקלאית, סולאר צף על מאגרים, מתקני אגירה וקירוי שבילי אופניים. התקרה היא עד מיליארד ש\"ח ל-36 חודשים, והחברה מעריכה פוטנציאל של כ-150 מגה-וואט. זו הערכת הזוכה, לא צבר הזמנות.",
+        "הדפוס חוזר. המועצה האזורית תמר, ליד ים המלח, פתחה באוקטובר 2026 מכרז מסגרת למערכות פוטו-וולטאיות, אגירה וקירויים סולאריים, ולפי הרדאר המועד נדחה ל-13 בדצמבר. כפר קאסם פרסמה מכרז לפרויקטי “עצמאות אנרגטית” עם מסמכים מתוקנים ל-25 בנובמבר. סביון רוכשת מתקן אגירה במתח גבוה עד 1 בדצמבר. עמק הירדן, מרום הגליל ושדות דן פרסמו מכרזי אנרגיה משולבים דומים.",
+        "המסמך המאלף ביותר מגיע מהמועצה האזורית שדות נגב. מכרז מאוגוסט 2026 מחפש קבלן שיקבל אחריות על מערכות סולאריות על גגות שכבר נבנו. חלקן מעולם לא חוברו לרשת, ולכן אינן מייצרות חשמל ואינן מכניסות כסף. הקבלן יבדוק אותן, ישלים אישורים, יחבר ויפעיל למשך חמש שנים, תמורת חלק מההכנסות.",
+        "זה הסיכון בכל מכרז מסגרת. הרכש הוא החלק הקל; היתרים, חיבור, תפעול ותחזוקה קובעים אם גג מייצר משהו. רשות עם ממונה אנרגיה אחד ועשרים אתרים יכולה לחתום על מסגרת בשבוע, ועדיין לראות פאנלים עומדים בטלים שנים אחר כך.",
+        "לכן השאלות של SPFI לכל מסגרת מעשיות: אילו [[call-off-order|הזמנות עבודה]] נחתמו? אילו אתרים מחוברים? מי מדווח על התפוקה, ולמי?"
+      ]
+    },
+    "type": {
+      "en": "Policy explainer",
+      "he": "הסבר מדיניות"
+    },
+    "date": "2026-08-15",
+    "sources": [
+      {
+        "url": "https://www.bizportal.co.il/energy/news/article/20036099",
+        "name": "Bizportal — Golden Energy wins solar framework for 16 local authorities (16 Jul 2026)"
+      },
+      {
+        "url": "https://www.sdotnegev.org.il/uploads/n/1788081151.8703.pdf",
+        "name": "Sdot Negev Regional Council — Tender 44/26 for existing rooftop PV (Aug 2026, PDF)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "framework-tender",
+        "term": {
+          "en": "Framework tender",
+          "he": "מכרז מסגרת"
+        },
+        "definition": {
+          "en": "a procurement that selects a supplier for future orders without committing to any specific project.",
+          "he": "רכש שבוחר ספק להזמנות עתידיות בלי להתחייב לפרויקט מסוים."
+        }
+      },
+      {
+        "id": "call-off-order",
+        "term": {
+          "en": "Call-off order",
+          "he": "הזמנת עבודה"
+        },
+        "definition": {
+          "en": "a specific project ordered under a framework.",
+          "he": "פרויקט מסוים שמוזמן במסגרת מכרז מסגרת."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "one-roof-many-users-wheeling",
+    "topic": "industry",
+    "title": {
+      "en": "One roof, many users",
+      "he": "גג אחד, הרבה משתמשים"
+    },
+    "excerpt": {
+      "en": "A warehouse roof powering three shopping centres. An orchard powering a fruit-sorting hall. Three countries show how to use solar where it’s needed, not only where it fits.",
+      "he": "גג מחסן שמזין שלושה מרכזים מסחריים. מטע שמזין בית מיון פרי. שלוש מדינות מראות איך לנצל סולאר במקום שבו הוא נחוץ, ולא רק במקום שבו הוא נכנס."
+    },
+    "body": {
+      "en": [
+        "Israel’s grid is turning away more than half of the new solar it’s asked to connect (see “Targets against delivery”). One response is to use power close to where it’s made, or share it between known users. Three projects from autumn 2026 show different ways to do that.",
+        "Cape Town: one roof, three buildings. Redefine Properties has commissioned a R106 million rooftop system on the Massmart distribution centre at Brackengate: 11,691 panels across about 57,000 m², rated at 7.014 MWp. The company expects about 9,889 MWh a year. The power is not used on site. It is [[wheeling|wheeled]] through the City of Cape Town’s municipal grid to three other Redefine properties: Kenilworth Centre, Blue Route Mall and The Towers office precinct. The project is part of the city’s wheeling pilot and rests on a 20-year commitment. A warehouse with a huge roof and modest demand becomes a power plant for buildings with the opposite profile.",
+        "Kressbronn, Germany: orchard to sorting hall. On Lake Constance, Sonntag Energy inaugurated a 2.4 MW AgriPV system over apple trees in late October 2026, about ten times the size of the farmer’s 2022 test plot. The modules replace hail nets. A 500-metre [[direct-line|private line]] supplies the BayWa Obst fruit-sorting hall next door. A 3.4 MWh battery charges when power is cheap and sells when it’s dear. According to the farmer’s account of the test plot, monitored by Fraunhofer ISE, it needed 70% less pesticide and half as much water. That is one site’s report, not a general result.",
+        "Australia: paying for the middle. From 1 October 2026, Australia’s Small-scale Renewable Energy Scheme covers systems up to 1 MW, up from 100 kW. The government estimates this cuts upfront costs for mid-size systems by about 20%. That size band covers factories, farms, schools and community buildings, the same “missing middle” that Israel’s low-voltage proposal would push into the market above 300–630 kW (see “The grid decides”). Australia is also seeking rule changes to ease grid connection for these larger systems.",
+        "Israel has pieces of each model: industrial roofs, packhouses beside orchards, the proposed limited-export storage route (see “Storage moves into planning”). It lacks a clear way to share one site’s power with a neighbour or with the owner’s other buildings. That is a regulatory gap SPFI will keep in view."
+      ],
+      "he": [
+        "רשת החשמל בישראל מסרבת ליותר ממחצית מהסולאר החדש שמבקשים לחבר אליה (ראו „יעדים מול ביצוע”). תשובה אחת היא לצרוך את החשמל קרוב למקום הייצור, או לחלק אותו בין משתמשים מוגדרים. שלושה פרויקטים מסתיו 2026 מראים דרכים שונות לעשות זאת.",
+        "קייפטאון: גג אחד, שלושה מבנים. חברת Redefine Properties הפעילה מערכת גג בעלות 106 מיליון ראנד על מרכז ההפצה של Massmart בברקנגייט: 11,691 פאנלים על כ-57 אלף מ\"ר, בהספק 7.014 מגה-וואט פיק. החברה מעריכה תפוקה של כ-9,889 מגה-וואט-שעה בשנה. החשמל לא נצרך במקום. הוא [[wheeling|מועבר דרך הרשת]] העירונית של קייפטאון לשלושה נכסים אחרים של החברה: קנילורת' סנטר, בלו ראוט מול ומתחם המשרדים דה טאוורס. הפרויקט הוא חלק מפיילוט ההעברה של העיר ונשען על התחייבות ל-20 שנה. מחסן עם גג ענק וצריכה צנועה הופך לתחנת כוח עבור מבנים עם הפרופיל ההפוך.",
+        "קרסברון, גרמניה: מהמטע לבית המיון. ליד אגם קונסטנץ חנכה Sonntag Energy בסוף אוקטובר 2026 מערכת אגרו-וולטאית של 2.4 מגה-וואט מעל עצי תפוח, פי עשרה מחלקת הניסוי של החקלאי מ-2022. הפאנלים מחליפים רשתות נגד ברד. [[direct-line|קו פרטי]] של 500 מטר מזין את בית מיון הפרי של BayWa Obst הסמוך. סוללה של 3.4 מגה-וואט-שעה נטענת כשהחשמל זול ומוכרת כשהוא יקר. לפי דיווח החקלאי על חלקת הניסוי, שנוטרה על ידי מכון פראונהופר, נדרשו בה 70% פחות חומרי הדברה ומחצית מכמות המים. זה דיווח מאתר אחד, לא תוצאה כללית.",
+        "אוסטרליה: לממן את האמצע. מ-1 באוקטובר 2026 תוכנית התמיכה למערכות קטנות באוסטרליה מכסה מערכות עד 1 מגה-וואט, במקום 100 קילוואט. הממשלה מעריכה שהעלות הראשונית של מערכות בינוניות תרד בכ-20%. זה טווח הגדלים של מפעלים, משקים, בתי ספר ומבני קהילה — אותו “אמצע חסר” שהשימוע של המתח הנמוך בישראל ידחף לשוק מעל 300–630 קילוואט (ראו „הרשת מחליטה”). אוסטרליה גם מקדמת שינוי כללים שיקל על חיבור מערכות גדולות אלה לרשת.",
+        "לישראל יש חלקים מכל מודל: גגות תעשייתיים, בתי אריזה ליד מטעים, מסלול ההזרמה המוגבלת שמוצע לאגירה (ראו „האגירה נכנסת לתכנון”). חסרה לה דרך ברורה לחלק את החשמל של אתר אחד עם שכן או עם מבנים אחרים של אותו בעלים. זה פער רגולטורי ש-SPFI ימשיך לעקוב אחריו."
+      ]
+    },
+    "type": {
+      "en": "Project explainer",
+      "he": "הסבר על פרויקט"
+    },
+    "date": "2026-11-10",
+    "sources": [
+      {
+        "url": "https://www.greenbuildingafrica.co.za/redefine-launches-r106-million-solar-wheeling-project-in-cape-town/",
+        "name": "Green Building Africa — Redefine launches R106 million solar wheeling project in Cape Town (21 Oct 2026)"
+      },
+      {
+        "url": "https://www.cleanthinking.de/?p=1075748",
+        "name": "Martin Jendrischik, Clean Thinking — Orchard farmer protects his apples with solar modules instead of hail nets (10 Nov 2026)"
+      },
+      {
+        "url": "https://www.pv-magazine-australia.com/press-releases/expansion-of-rooftop-solar-scheme-cuts-upfront-cost-for-businesses-by-20/",
+        "name": "Australian Government (DCCEEW) via pv magazine Australia — Expansion of rooftop solar scheme cuts upfront cost for businesses by 20% (1 Oct 2026)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "wheeling",
+        "term": {
+          "en": "Wheeling",
+          "he": "העברה ברשת (Wheeling)"
+        },
+        "definition": {
+          "en": "sending electricity from a generator to a named customer across a public grid, paying a network charge.",
+          "he": "הזרמת חשמל ממחולל ללקוח מוגדר דרך רשת ציבורית, בתשלום דמי רשת."
+        }
+      },
+      {
+        "id": "direct-line",
+        "term": {
+          "en": "Direct line",
+          "he": "קו ישיר"
+        },
+        "definition": {
+          "en": "a private cable from a generator to a nearby consumer, bypassing the public grid.",
+          "he": "כבל פרטי ממחולל לצרכן סמוך, שעוקף את הרשת הציבורית."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "pears-under-solar-canopies",
     "topic": "agripv",
     "title": {
@@ -2620,6 +3377,76 @@
     "images": []
   },
   {
+    "id": "periphery-land-law-solar",
+    "topic": "people",
+    "title": {
+      "en": "The periphery land law: who gets the profit?",
+      "he": "חוק קרקע לפריפריה: למי הרווח?"
+    },
+    "excerpt": {
+      "en": "A new law lets Israel’s poorer peripheral towns ask for state land for solar without a land tender. Environmental groups warned about open space; the final text tries to balance both.",
+      "he": "חוק חדש מאפשר לרשויות פריפריאליות חלשות לבקש קרקע מדינה לסולאר בלי מכרז קרקע. ארגוני סביבה הזהירו מפני פגיעה בשטחים פתוחים; הנוסח הסופי מנסה לאזן בין השניים."
+    },
+    "body": {
+      "en": [
+        "Israel’s solar boom has mostly enriched developers, landowners and the agricultural settlements that host fields. Peripheral towns, many of them low-income, often host the transmission lines but share little of the income. A July 2026 amendment to the Israel Land Authority Law tries to change that.",
+        "What the law allows. A local authority ranked 1 to 5 on the national [[peripherality-index|peripherality index]], and which received an Interior Ministry [[equalisation-grant|equalisation grant]] in each of the previous three years, may ask the Israel Land Authority for land within its boundaries for a renewable-electricity project. The land is allocated without a land tender. The council must still pick an experienced developer through a public tender, and the payment it receives cannot depend on the project’s profits.",
+        "When a town has no land. An eligible authority with no suitable site can apply jointly with a neighbouring, non-eligible authority. The land is then allocated in the neighbour’s area, but 80% of the project’s profit must go to the eligible town. Land counts as available only if it is a contiguous plot of at least 75 dunams.",
+        "The safeguards. Allocation requires a project that fits the statutory plan and holds grid-connection approval under the Electricity Sector Law. The town’s engineer must also submit an opinion on rooftop solar potential across its public buildings and a plan to use it. Project details must go on the council website within 14 days. When the project ends, the land returns to the state clear.",
+        "The argument behind the text. The Society for the Protection of Nature in Israel opposed the bill as an “easy solution” that could consume open land, habitats and ecological corridors, and pull solar away from roofs, parking lots and sports grounds. It reports that the final version cut the amount of land designated, added the planning and grid conditions, and required site restoration.",
+        "The law links solar to municipal income and regional inequality more directly than any previous Israeli measure. Whether it works depends on details not yet visible: how much land the ILA Council allows per town, which towns apply first, and whether projects favour disturbed land over open countryside. SPFI will track the first applications."
+      ],
+      "he": [
+        "תנופת הסולאר בישראל העשירה בעיקר יזמים, בעלי קרקע וישובים חקלאיים שמארחים שדות. עירים פריפריאליות, רבות מהן חלשות כלכלית, מארחות לעיתים קרובות קווי מתח אבל נהנות מעט מההכנסות. תיקון לחוק רשות מקרקעי ישראל מיולי 2026 מנסה לשנות זאת.",
+        "מה החוק מאפשר. רשות מקומית בדירוג 1–5 ב[[peripherality-index|מדד הפריפריאליות]], שקיבלה [[equalisation-grant|מענק איזון]] ממשרד הפנים בכל אחת משלוש השנים הקודמות, רשאית לבקש מרמ\"י קרקע בתחומה למתקן לייצור חשמל מתחדש. הקרקע מוקצית בלי מכרז קרקע. המועצה עדיין צריכה לבחור יזם מנוסה במכרז פומבי, והתשלום לרשות לא יכול להיות תלוי ברווחי המתקן.",
+        "כשלעיר אין קרקע. רשות זכאית ללא אתר מתאים יכולה להגיש בקשה משותפת עם רשות שכנה שאינה זכאית. הקרקע מוקצית אז בתחום השכנה, אבל 80% מרווחי המתקן חייבים לעבור לעיר הזכאית. קרקע נחשבת זמינה רק אם היא רציפה ובהיקף של לפחות 75 דונם.",
+        "הסייגים. ההקצאה מותנית במתקן שתואם את התכנית הסטטוטורית ומחזיק אישור חיבור לפי חוק משק החשמל. מהנדס הרשות נדרש להגיש חוות דעת על פוטנציאל הסולאר על גגות מבני הציבור ותוכנית למימושו. פרטי הפרויקט יפורסמו באתר הרשות תוך 14 יום. בסוף הפרויקט הקרקע חוזרת למדינה פנויה.",
+        "הוויכוח שמאחורי הנוסח. החברה להגנת הטבע התנגדה להצעה כ“פתרון קל” שעלול לכלות שטחים פתוחים, בתי גידול ומסדרונות אקולוגיים, ולהסיט את הסולאר מגגות, חניונים ומגרשי ספורט. לפי דיווחה, בנוסח הסופי צומצם היקף הקרקע שיועד, נוספו תנאי התכנון והחיבור, ונקבעה חובת שיקום האתר.",
+        "החוק קושר בין סולאר להכנסות עירוניות ולפערים אזוריים באופן ישיר יותר מכל צעד קודם. הצלחתו תלויה בפרטים שעוד לא גלויים: כמה קרקע תאפשר מועצת רמ\"י לכל רשות, אילו ערים יגישו ראשונות, והאם הפרויקטים יעדיפו קרקע מופרת על פני שטח פתוח. SPFI יעקוב אחר הבקשות הראשונות."
+      ]
+    },
+    "type": {
+      "en": "Policy explainer",
+      "he": "הסבר מדיניות"
+    },
+    "date": "2026-07-21",
+    "sources": [
+      {
+        "url": "https://israelilegislation.com/laws/israel-lands-authority-law-1960/",
+        "name": "IsraeliLegislation.com — Israel Lands Authority Law, section on renewable-energy land for local authorities (unofficial English, consolidated to 21 Jul 2026)"
+      },
+      {
+        "url": "https://natureisrael.org/wp-content/uploads/2026/08/SPNI-Legislative-Environmental-Advocacy-Report-July-2026.docx.pdf",
+        "name": "SPNI — Legislative and environmental advocacy report, July 2026 (PDF)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "peripherality-index",
+        "term": {
+          "en": "Peripherality index",
+          "he": "מדד הפריפריאליות"
+        },
+        "definition": {
+          "en": "a Central Bureau of Statistics ranking of local authorities by distance from population centres.",
+          "he": "דירוג של הלשכה המרכזית לסטטיסטיקה לרשויות המקומיות לפי מרחקן ממרכזי אוכלוסייה."
+        }
+      },
+      {
+        "id": "equalisation-grant",
+        "term": {
+          "en": "Equalisation grant",
+          "he": "מענק איזון"
+        },
+        "definition": {
+          "en": "an Interior Ministry payment to local authorities with weak income bases.",
+          "he": "תשלום של משרד הפנים לרשויות מקומיות עם בסיס הכנסות חלש."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "regace-greenhouses",
     "topic": "agripv",
     "title": {
@@ -2698,6 +3525,85 @@
         "definition": {
           "en": "Rated generating power, expressed in watts; distinct from electricity generated over time.",
           "he": "יכולת ייצור מדורגת הנמדדת בוואט, להבדיל מכמות החשמל המיוצרת לאורך זמן."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "reservoirs-government-roofs-birds",
+    "topic": "environment",
+    "title": {
+      "en": "Reservoirs, government roofs and the birds",
+      "he": "מאגרים, גגות ממשלתיים וציפורים"
+    },
+    "excerpt": {
+      "en": "Water reservoirs look like the perfect solar surface: flat, unused, owned by the state. A new Israeli wildlife study says they are not empty.",
+      "he": "מאגרי מים נראים כמשטח סולארי מושלם: שטוחים, לא מנוצלים, בבעלות המדינה. מחקר חדש של רשות הטבע והגנים מראה שהם לא ריקים."
+    },
+    "body": {
+      "en": [
+        "Israel has hundreds of water reservoirs, many of them operational rather than scenic. To an energy planner they look ideal: flat surfaces that consume no farmland, next to pumps that use a lot of electricity. In July 2026 Mekorot, the national water company, invited developers to [[dbo|design, build and operate]] up to ten solar installations with batteries on its reservoirs. The Jerusalem Post reports a combined capacity of about 100 MW with four to six hours of storage. Mekorot would have first right to buy the power for its own pumping. It says more than 250 MW of its projects are in development. The tender has closed; the radar found no award yet.",
+        "The wildlife data. The Israel Nature and Parks Authority has published a study linking solar arrays on reservoirs with a decline of up to 40% in observed duck and diving-bird species. Filter-feeding ducks and divers were hit hardest. Rare species are among them: Israel hosts about a third of the world’s wintering white-headed ducks, according to the report. The authority recommends that key reservoirs stay off-limits to panels, that the covered share of each water surface be capped, and that monitoring continue.",
+        "That changes the reservoir story from “free surface” to “shared habitat”. Not every reservoir matters equally to birds, and not every installation covers the same share of water. But the evidence argues for choosing sites before writing tenders, not after.",
+        "Government roofs. In parallel, the Finance Ministry’s Government Housing Administration ran a tender in 2026 for privately financed rooftop PV on government buildings, explicitly including [[bipv|building-integrated photovoltaics]] (BIPV). Submissions closed in September. No award, site list or design standard has been published. BIPV would make panels part of façades and roofs, which raises questions about waterproofing, maintenance access and heritage buildings.",
+        "The common thread is that public assets come with public functions. A reservoir stores water and hosts birds. A government building carries architecture and civic identity. SPFI will look at whether the winning designs protect those functions and publish what they cover."
+      ],
+      "he": [
+        "בישראל מאות מאגרי מים, רובם מתקנים תפעוליים. למתכנן אנרגיה הם נראים אידיאליים: משטחים שטוחים שלא גוזלים קרקע חקלאית, לצד משאבות שצורכות הרבה חשמל. ביולי 2026 הזמינה מקורות יזמים [[dbo|לתכנן, להקים ולהפעיל]] עד עשרה מתקנים סולאריים עם סוללות על מאגריה. לפי הג'רוזלם פוסט, מדובר בכ-100 מגה-וואט בסך הכול עם אגירה של ארבע עד שש שעות, ולמקורות תהיה זכות ראשונה לרכוש את החשמל לשאיבה. החברה מציינת שיותר מ-250 מגה-וואט של פרויקטים שלה נמצאים בפיתוח. המכרז נסגר; הרדאר לא מצא עדיין זוכה.",
+        "נתוני הטבע. רשות הטבע והגנים פרסמה מחקר שמקשר בין מערכים סולאריים על מאגרים לירידה של עד 40% במיני ברווזים וצוללים שנצפו. הברווזים המסננים והצוללים נפגעו הכי הרבה, ובהם מינים נדירים: לפי הדיווח, בישראל מחורפת כשליש מאוכלוסיית הקרגיר העולמית. הרשות ממליצה להשאיר מאגרים מרכזיים ללא פאנלים, להגביל את שיעור הכיסוי של כל מאגר, ולהמשיך במעקב.",
+        "זה הופך את סיפור המאגרים מ“משטח חינמי” ל“בית גידול משותף”. לא כל מאגר חשוב באותה מידה לציפורים, ולא כל מתקן מכסה אותו חלק מהמים. אבל הראיות תומכות בבחירת אתרים לפני כתיבת המכרז, ולא אחריה.",
+        "גגות ממשלתיים. במקביל פרסם מינהל הדיור הממשלתי במשרד האוצר מכרז למערכות סולאריות במימון פרטי על גגות מבני ממשלה, כולל [[bipv|פאנלים משולבי מבנה]] (BIPV). ההגשות נסגרו בספטמבר. לא פורסמו זוכה, רשימת אתרים או תקן תכנון. BIPV הופך פאנלים לחלק מהחזית ומהגג, ומעלה שאלות של איטום, גישה לתחזוקה ומבנים לשימור.",
+        "החוט המשותף הוא שלנכסים ציבוריים יש תפקידים ציבוריים. מאגר אוגר מים ומארח ציפורים. מבנה ממשלתי נושא אדריכלות וזהות אזרחית. SPFI יבדוק אם התכנונים הזוכים שומרים על התפקידים האלה ומפרסמים מה הם מכסים."
+      ]
+    },
+    "type": {
+      "en": "Project explainer",
+      "he": "הסבר על פרויקט"
+    },
+    "date": "2026-07-21",
+    "sources": [
+      {
+        "url": "https://www.jpost.com/business-and-innovation/energy-and-infrastructure/article-903149",
+        "name": "Jerusalem Post — Mekorot launches tender for up to 10 solar-and-storage facilities on reservoirs (21 Jul 2026)"
+      },
+      {
+        "url": "https://themedialine.org/headlines/solar-panels-on-reservoirs-tied-to-declines-in-ducks-and-diving-birds",
+        "name": "The Media Line — Solar panels on reservoirs tied to declines in ducks and diving birds"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "floating-pv",
+        "term": {
+          "en": "Floating PV",
+          "he": "סולאר צף"
+        },
+        "definition": {
+          "en": "panels mounted on pontoons on a water surface.",
+          "he": "פאנלים המותקנים על מצופים על פני מים."
+        }
+      },
+      {
+        "id": "bipv",
+        "term": {
+          "en": "BIPV",
+          "he": "BIPV"
+        },
+        "definition": {
+          "en": "building-integrated photovoltaics: panels that replace roof or façade materials rather than sitting on top of them.",
+          "he": "פאנלים משולבי מבנה: פאנלים שמחליפים חומרי גג או חזית במקום להיות מונחים עליהם."
+        }
+      },
+      {
+        "id": "dbo",
+        "term": {
+          "en": "DBO",
+          "he": "DBO"
+        },
+        "definition": {
+          "en": "design-build-operate contract.",
+          "he": "חוזה תכנון-הקמה-הפעלה."
         }
       }
     ],
@@ -2942,6 +3848,169 @@
     "images": []
   },
   {
+    "id": "solar-canopies-sports-courts",
+    "topic": "industry",
+    "title": {
+      "en": "Shade as public infrastructure",
+      "he": "צל כתשתית ציבורית"
+    },
+    "excerpt": {
+      "en": "Israel is paying towns to roof their sports courts with solar panels. The first test is whether the result is a good public space, not only a power plant.",
+      "he": "המדינה מממנת קירוי סולארי למגרשי ספורט ברשויות. המבחן הראשון הוא אם התוצאה תהיה מרחב ציבורי טוב, ולא רק תחנת כוח."
+    },
+    "body": {
+      "en": [
+        "An open asphalt court in July is close to unusable at midday. In July 2025 the government approved a national programme to put [[solar-canopy|solar canopies]] over public sports fields, with NIS 34 million for 2025 and an estimated 3,500 fields nationwide. The pitch combines four things: shade, rain cover, longer playing hours and electricity that earns the council money.",
+        "In July 2026 the Energy Ministry named 42 local authorities for the next round of grants. Reported figures are NIS 15 million in total, NIS 300,000–450,000 per authority depending on its [[socio-economic-cluster|socio-economic cluster]], more than 25,000 m² of canopy and over 3 MW of panels. Or Yehuda, for example, received NIS 375,000. A grant is a commitment, not a court: councils still need a site, a design, a building permit, a contractor and a grid connection.",
+        "Tel Aviv offers the clearest built example. In August 2025 the city’s Economic Development Authority and Apollo Power hung lightweight, flexible solar film on a tensioned cable net over the court at Hatzri school in Tel Baruch. The city judged it on safety, appearance, cost, output and full shade. On 21 October 2026 Apollo’s subsidiary SolarPaint reported an order worth about NIS 3.8 million to roof more Tel Aviv courts, for completion in 2027 subject to permits and grid approval. A ministry event report in November said about 60 municipal staff toured the pilot.",
+        "Financing is getting easier too. Israel’s Knesset has exempted PV structures that cover an area or a building from certain drainage, road and sidewalk levies until the end of 2030.",
+        "What is still missing is evidence about the space under the panels. None of the public sources SPFI checked report the pilot’s capacity, its output or how much cooler the court is. A canopy can be a generic steel shed or a piece of civic architecture with good light, drainage, acoustics and night lighting. Councils choose which one they get when they write the tender."
+      ],
+      "he": [
+        "מגרש אספלט פתוח ביולי כמעט לא שמיש בצהריים. ביולי 2025 אישרה הממשלה תוכנית לאומית ל[[solar-canopy|קירוי סולארי]] של מגרשי ספורט ציבוריים, עם 34 מיליון ש\"ח ל-2025 והערכה של כ-3,500 מגרשים ברחבי הארץ. ההבטחה משלבת ארבעה דברים: צל, מחסה מגשם, שעות פעילות ארוכות יותר וחשמל שמכניס כסף לרשות.",
+        "ביולי 2026 בחר משרד האנרגיה 42 רשויות מקומיות לסבב המענקים הבא. לפי הדיווחים: 15 מיליון ש\"ח בסך הכול, 300–450 אלף ש\"ח לרשות לפי ה[[socio-economic-cluster|אשכול החברתי-כלכלי]], יותר מ-25 אלף מ\"ר קירוי ויותר מ-3 מגה-וואט. אור יהודה, למשל, קיבלה 375 אלף ש\"ח. מענק הוא התחייבות, לא מגרש: הרשות עדיין צריכה אתר, תכנון, היתר בנייה, קבלן וחיבור לרשת.",
+        "תל אביב מציעה את הדוגמה הבנויה הברורה ביותר. באוגוסט 2025 תלו הרשות לפיתוח כלכלי של העירייה ואפולו פאוור יריעות סולאריות גמישות וקלות על רשת כבלים מתוחה מעל מגרש בית הספר חצרי בתל ברוך. העירייה בחנה את הפיילוט לפי בטיחות, נראות, מחיר, תפוקה והצללה מלאה. ב-21 באוקטובר 2026 דיווחה סולארפיינט, בת של אפולו, על הזמנה של כ-3.8 מיליון ש\"ח לקירוי מגרשים נוספים בעיר, להשלמה ב-2027 בכפוף להיתרים ולאישור חיבור. לפי דיווח משרד האנרגיה מנובמבר, כ-60 נציגי רשויות סיירו בפיילוט.",
+        "גם המימון מתקל. הכנסת פטרה מתקנים פוטו-וולטאיים המקרים שטח או מבנה מחלק מהיטלי הניקוז, הכביש והמדרכה עד סוף 2030.",
+        "מה שעדיין חסר הוא מידע על המרחב שמתחת לפאנלים. אף אחד מהמקורות שבדק SPFI אינו מדווח על ההספק של הפיילוט, על התפוקה שלו או על כמה המגרש נעשה קריר יותר. קירוי יכול להיות סכיית פלדה גנרית, או פריט של אדריכלות ציבורית עם אור טוב, ניקוז, אקוסטיקה ותאורת לילה. הרשויות בוחרות ביניהן כבר בשלב כתיבת המכרז."
+      ]
+    },
+    "type": {
+      "en": "Project explainer",
+      "he": "הסבר על פרויקט"
+    },
+    "date": "2026-10-25",
+    "sources": [
+      {
+        "url": "https://tlvonline.co.il/%D7%A7%D7%99%D7%A8%D7%95%D7%99-%D7%A1%D7%95%D7%9C%D7%90%D7%A8%D7%99-%D7%9E%D7%92%D7%A8%D7%A9%D7%99-%D7%A1%D7%A4%D7%95%D7%A8%D7%98/",
+        "name": "Tel Aviv Online — Solar canopies for Tel Aviv sports fields: NIS 3.8 m order (25 Oct 2026)"
+      },
+      {
+        "url": "https://www.news08.net/%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%99%D7%A8%D7%95%D7%A7%D7%94-%D7%9C%D7%90%D7%95%D7%A8-%D7%99%D7%94%D7%95%D7%93%D7%94-%D7%9E%D7%92%D7%A8%D7%A9-%D7%A1%D7%A4%D7%95%D7%A8%D7%98-%D7%91%D7%A2%D7%99%D7%A8/",
+        "name": "News08 — Or Yehuda receives NIS 375,000 for a solar sports canopy (22 Jul 2026)"
+      },
+      {
+        "url": "https://www.c14.co.il/article/1629391",
+        "name": "Channel 14 — 42 authorities win solar-canopy grants"
+      },
+      {
+        "url": "https://www.srugim.co.il/1153166-%D7%94%D7%9E%D7%9E%D7%A9%D7%9C%D7%94-%D7%90%D7%99%D7%A9%D7%A8%D7%94-%D7%9E%D7%92%D7%A8%D7%A9%D7%99-%D7%94%D7%A1%D7%A4%D7%95%D7%A8%D7%98-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A4%D7%99%D7%A7",
+        "name": "Srugim — government approves national sports-field solar programme (Jul 2025)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "solar-canopy",
+        "term": {
+          "en": "Solar canopy",
+          "he": "קירוי סולארי"
+        },
+        "definition": {
+          "en": "a roof structure, open at the sides, that carries panels and shades the space beneath.",
+          "he": "מבנה גג, פתוח מהצדדים, שנושא פאנלים ומצל על השטח שמתחתיו."
+        }
+      },
+      {
+        "id": "socio-economic-cluster",
+        "term": {
+          "en": "Socio-economic cluster",
+          "he": "אשכול חברתי-כלכלי"
+        },
+        "definition": {
+          "en": "Israel’s 1–10 ranking of local authorities, used here to size grants.",
+          "he": "דירוג 1–10 של הרשויות המקומיות בישראל, המשמש כאן לקביעת גובה המענק."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "solar-carports-netherlands-seattle",
+    "topic": "industry",
+    "title": {
+      "en": "Why a canopy starts two goals down",
+      "he": "למה קירוי מתחיל בפיגור של שערים"
+    },
+    "excerpt": {
+      "en": "Solar canopies cost more than roofs and produce less per square metre. The Dutch government’s answer is to build them big and wire them to nearby industry.",
+      "he": "קירויים סולאריים יקרים מגגות ומייצרים פחות למטר רבוע. התשובה של ממשלת הולנד: לבנות אותם גדולים ולחבר אותם לתעשייה סמוכה."
+    },
+    "body": {
+      "en": [
+        "Israel is betting on solar canopies over sports fields, parking lots and cycle paths (see “Shade as public infrastructure” and “One tender, many surfaces”). The Netherlands has been through the same enthusiasm and has published a blunt assessment of the economics.",
+        "The cost problem. A market study by the consultancy Arcadis, commissioned by the Dutch climate ministry, found that [[solar-carport|solar carports]] are much more expensive than rooftop or field systems. The main reason is the steel or timber structure that a roof provides for free. Carports also generate less per square metre, because parking layouts use space less efficiently. One Arcadis adviser summed it up: a carport is “two goals down before you begin”. Given a choice, a bank will usually finance a roof.",
+        "The Dutch answer. The Netherlands Enterprise Agency (RVO), in guidance checked in June 2026, names grid congestion, negative electricity prices and tighter financing as the main obstacles. It recommends focusing on large public parking canopies of at least [[mwp|1 MWp]], ideally connected to the electricity demand of a nearby industrial estate, and points to an investment subsidy and a state guarantee fund as possible support. Arcadis also argued for backing self-consumption and [[on-site-ppa|on-site power-purchase agreements]], so the power is used next door rather than exported into a congested grid.",
+        "A small canopy, slowly. The University of Washington in Seattle shows the time scale. Its pilot canopy over parking lot E18 covers about 30 spaces, carries roughly 86 kW of panels and 20 EV chargers, and was celebrated as complete in February 2026. The university issued its environmental determination for the project in January 2024: two years for one pilot. Even the capacity varies between sources (84, 86.4 and 93 kW), a reminder to check numbers against the owner’s final record. UW describes the pilot as a test for covering the whole lot and the neighbouring one.",
+        "For Israeli councils, the lessons are concrete. Pair canopies with a local load: a sports centre’s lights, a school, a nearby factory. Bundle sites to reach a scale lenders like. And count the canopy’s civic value, its shade and rain cover, as part of the case, because on electricity alone it will rarely beat a roof."
+      ],
+      "he": [
+        "ישראל מהמרת על קירויים סולאריים מעל מגרשי ספורט, חניונים ושבילי אופניים (ראו „צל כתשתית ציבורית” ו„מכרז אחד, הרבה משטחים”). הולנד עברה את אותה התלהבות ופרסמה הערכה ישירה של הכלכלה.",
+        "בעיית העלות. מחקר שוק של חברת הייעוץ Arcadis, בהזמנת משרד האקלים ההולנדי, מצא ש[[solar-carport|חניונים סולאריים]] יקרים בהרבה ממערכות גג או שדה. הסיבה העיקרית היא מבנה הפלדה או העץ שגג נותן בחינם. החניונים גם מייצרים פחות למטר רבוע, כי פריסת חניה מנצלת שטח פחות טוב. יועץ ב-Arcadis סיכם: חניון סולארי “מתחיל בפיגור של שני שערים”. כשיש בחירה, בנק יעדיף בדרך כלל לממן גג.",
+        "התשובה ההולנדית. הסוכנות ההולנדית ליזמות (RVO), בהנחיות שעודכנו ביוני 2026, מצביעה על עומס ברשת, מחירי חשמל שליליים ומימון קשיח כחסמים העיקריים. היא ממליצה להתמקד בקירויי חניה ציבוריים גדולים, של [[mwp|מגה-וואט פיק]] ומעלה, שמחוברים לצריכה של אזור תעשייה סמוך, ומציינת מענק השקעה וקרן ערבויות ממשלתית ככלים אפשריים. Arcadis המליצה גם לתמוך בצריכה עצמית וב[[on-site-ppa|הסכמי רכישת חשמל באתר]], כך שהחשמל ינוצל בסמוך ולא יוזרם לרשת עמוסה.",
+        "קירוי קטן, לאט. אוניברסיטת וושינגטון בסיאטל ממחישה את לוח הזמנים. קירוי הפיילוט שלה מעל חניון E18 מכסה כ-30 מקומות חניה, נושא כ-86 קילוואט ו-20 עמדות טעינה, ונחנך בפברואר 2026. קביעת ההשפעה הסביבתית של האוניברסיטה פורסמה בינואר 2024: שנתיים לפיילוט אחד. אפילו ההספק משתנה בין המקורות (84, 86.4 ו-93 קילוואט) — תזכורת לבדוק מספרים מול הרישום הסופי של הבעלים. האוניברסיטה מתארת את הפיילוט כמבחן לקירוי החניון כולו והחניון הסמוך.",
+        "לרשויות בישראל הלקחים מעשיים. לצמד קירוי לצריכה מקומית: תאורת מרכז ספורט, בית ספר, מפעל סמוך. לאגד אתרים להיקף שמושך מלווים. ולהכניס לחשבון את הערך האזרחי של הקירוי — צל ומחסה מגשם — כי על בסיס חשמל בלבד הוא רק לעיתים רחוקות ינצח גג."
+      ]
+    },
+    "type": {
+      "en": "Policy explainer",
+      "he": "הסבר מדיניות"
+    },
+    "date": "2026-06-23",
+    "sources": [
+      {
+        "url": "https://solarmagazine.nl/nieuws-zonne-energie/i39686/wanneer-komt-de-markt-zonnecarports-los-actieve-stimulering-grote-systemen-kan-het-verschil-maken",
+        "name": "Marco de Jonge Baas, Solar Magazine — Arcadis study on solar carports for the Dutch climate ministry (10 Feb 2025)"
+      },
+      {
+        "url": "https://www.rvo.nl/onderwerpen/zonne-energie/infrastructuur",
+        "name": "RVO — Solar energy on infrastructure (checked 23 Jun 2026)"
+      },
+      {
+        "url": "https://facilities.uw.edu/blog/node/2204",
+        "name": "UW Facilities — Solar canopy on UW’s biggest parking lot (Feb 2026)"
+      },
+      {
+        "url": "https://washington.edu/news/?p=84302",
+        "name": "UW News — SEPA determination for the Lot E18 canopy (31 Jan 2024)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "solar-carport",
+        "term": {
+          "en": "Solar carport",
+          "he": "חניון סולארי"
+        },
+        "definition": {
+          "en": "a canopy over parking spaces that carries solar panels.",
+          "he": "קירוי מעל מקומות חניה שנושא פאנלים סולאריים."
+        }
+      },
+      {
+        "id": "on-site-ppa",
+        "term": {
+          "en": "On-site PPA",
+          "he": "הסכם רכישת חשמל באתר"
+        },
+        "definition": {
+          "en": "a contract to sell electricity directly to a consumer next to the generator, without using the public grid.",
+          "he": "חוזה למכירת חשמל ישירות לצרכן הסמוך למתקן, בלי לעבור ברשת הציבורית."
+        }
+      },
+      {
+        "id": "mwp",
+        "term": {
+          "en": "MWp",
+          "he": "MWp (מגה-וואט פיק)"
+        },
+        "definition": {
+          "en": "megawatt-peak, the rated output of panels under standard test conditions.",
+          "he": "ההספק הנקוב של פאנלים בתנאי בדיקה תקניים."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "solar-growth-grid-bottleneck",
     "topic": "industry",
     "title": {
@@ -3117,6 +4186,82 @@
     "images": []
   },
   {
+    "id": "solar-landscape-public-say",
+    "topic": "environment",
+    "title": {
+      "en": "Who gets a say in the solar landscape",
+      "he": "למי יש קול בנוף הסולארי"
+    },
+    "excerpt": {
+      "en": "In New Zealand, a solar farm’s fate turned on fire risk, glare and a conflict of interest. In the Netherlands, researchers asked what makes a solar field feel like a landscape. Both lessons point to process.",
+      "he": "בניו זילנד, גורלו של שדה סולארי נקבע סביב סיכון שריפה, סנוור וניגוד עניינים. בהולנד שאלו חוקרים מה גורם לשדה סולארי להרגיש כמו נוף. שני הלקחים מצביעים על התהליך."
+    },
+    "body": {
+      "en": [
+        "Israel is about to plan AgriPV at landscape scale: 1,700 dunams in the Valley of Springs, border-region schemes in the Galilee and Negev (see “Energized is not operating”). Two cases abroad show what happens when the public is invited in, or left out.",
+        "Waipara, New Zealand: process as the story. Far North Solar Farm Ltd proposed a 181-hectare farm near Waipara in North Canterbury: about 250,000 panels and up to 144 MW. The regional council, Environment Canterbury, granted its consents without [[public-notification|public notification]], despite a 700-signature petition asking for it. The district council did notify its part and received 158 submissions, 125 of them opposed. Residents raised landscape and visual effects, property values, glare for drivers, wind resistance and the area’s heritage. A council staff report found the landscape effects “more than minor”.",
+        "Then the process itself became the issue. Opponents showed that the fire-risk report had been written by a firm sharing directors with the applicant. The commissioners ordered an independent fire assessment from Stantec, delaying the decision. The applicant also withdrew 6.8 hectares after native matagouri shrubs were cleared on the site. The radar reports that commissioners granted consent in part on 13 October 2026.",
+        "Gelderland, Netherlands: designing for acceptance. Researchers Kitti Biró-Varga and Sven Stremke at Wageningen University studied [[vertical-agripv|vertical AgriPV]], in which bifacial panels stand upright between strips of farmland or pasture, in Dutch peat landscapes. Their January 2026 paper in Renewable Energy finds that perceived landscape quality improves when projects are accessible, include park-like functions and provide for biodiversity and wildlife, and when their visual appearance and screening are designed deliberately. The authors turn this into design guidelines and spatial-policy recommendations.",
+        "The two cases fit together. Waipara shows that independent evidence and genuine notification decide whether a project is trusted. Gelderland shows that access, habitat and form can be designed in from the start, rather than argued over at the hearing. Israel’s draft AgriPV rules measure crops; they say little about paths, views, fences or who gets to object. The new cooperative-approval rule (see “The kibbutz vote”) is a start for members. Neighbours and the wider public still have no equivalent."
+      ],
+      "he": [
+        "ישראל עומדת לתכנן אגרו-וולטאי בקנה מידה של נוף: 1,700 דונם בעמק המעיינות, תכניות באזורי הגבול בגליל ובנגב (ראו „מחושמל זה לא מפועל”). שני מקרים מחו״ל מראים מה קורה כשהציבור מוזמן לתהליך, או נשאר בחוץ.",
+        "וויפרה, ניו זילנד: התהליך הוא הסיפור. חברת Far North Solar Farm הציעה שדה של 181 הקטר ליד וויפרה שבצפון קנטרברי: כ-250 אלף פאנלים ועד 144 מגה-וואט. המועצה האזורית, Environment Canterbury, אישרה את ההיתרים שלה בלי [[public-notification|פרסום לציבור]], למרות עצורה של 700 חתימות שדרשה זאת. המועצה המקומית פרסמה את חלקה וקיבלה 158 התייחסויות, 125 מהן מתנגדות. התושבים העלו השפעות נופיות וחזותיות, ערכי נדל\"ן, סנוור לנהגים, עמידות ברוח ומורשת האזור. דוח מקצועי של המועצה קבע שההשפעות על הנוף “יותר מזעירות”.",
+        "אז התהליך עצמו הפך לסוגיה. המתנגדים הראו שדוח סיכוני השריפה נכתב בידי חברה שחולקת דירקטורים עם היזם. הנציבים הזמינו הערכת שריפה בלתי תלויה מ-Stantec, וההחלטה נדחתה. היזם גם הסיר 6.8 הקטר מהבקשה אחרי שבאתר נוקו שיחי מטאגורי מקומיים. לפי הרדאר, ב-13 באוקטובר 2026 אישרו הנציבים את הבקשה בחלקה.",
+        "גלדרלנד, הולנד: לתכנן לקבלה ציבורית. החוקרים קיטי בירו-ורגה וסוון שטרמקה מאוניברסיטת ואגנינגן חקרו [[vertical-agripv|אגרו-וולטאי אנכי]] — פאנלים דו-פניים זקופים בין רצועות שדה או מרעה — בנופי הכבול של הולנד. המאמר שלהם מינואר 2026 ב-Renewable Energy מצא שאיכות הנוף הנתפסת עולה כשהמתקן נגיש, כולל שימושים דמויי פארק, מפנה מקום למגוון ביולוגי ולחיות בר, וכשהמראה וההסתרה מתוכננים במודע. החוקרים הפכו את זה להנחיות תכנון והמלצות מדיניות.",
+        "שני המקרים משלימים זה את זה. וויפרה מראה שראיות בלתי תלויות ופרסום אמיתי לציבור קובעים אם פרויקט זוכה לאמון. גלדרלנד מראה שאפשר לתכנן מראש גישה, בתי גידול וצורה, במקום להתווכח עליהם בדיון. טיוטת הכללים הישראלית מודדת יבולים; היא אומרת מעט על שבילים, מבטים, גדרות ומי רשאי להתנגד. נוהל האגודות החדש (ראו „ההצבעה בקיבוץ”) הוא התחלה עבור החברים. לשכנים ולציבור הרחב עדיין אין מקבילה."
+      ]
+    },
+    "type": {
+      "en": "People & practice",
+      "he": "אנשים ועשייה"
+    },
+    "date": "2026-06-18",
+    "sources": [
+      {
+        "url": "https://www.carbonnews.co.nz/news/37636/decision-on-controversial-waipara-solar-farm-delayed",
+        "name": "David Hill, Carbon News (Local Democracy Reporting) — Decision on controversial Waipara solar farm delayed (18 Jun 2026)"
+      },
+      {
+        "url": "https://www.scoop.co.nz/stories/AK2508/S00831.htm",
+        "name": "Scoop — Waipara residents petition for public notification (Aug 2025)"
+      },
+      {
+        "url": "https://ersearch2.cvtisr.sk/vufind/SummonRecord/FETCH-LOGICAL-c303t-fe081d812dca1e0bc18289a0e7d1cfde1a734fb339b632eb6eb18aa3588b5c713",
+        "name": "Biró-Varga & Stremke — Advancing policy development for vertical agrivoltaics, Renewable Energy 256, 124533 (Jan 2026), library record"
+      },
+      {
+        "url": "https://www.hurunui.govt.nz/rrl/resource-consents/notified-resource-consents/rc240028-waipara-solar-farm",
+        "name": "Hurunui District Council — RC240028 Waipara solar farm"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "public-notification",
+        "term": {
+          "en": "Public notification",
+          "he": "פרסום לציבור"
+        },
+        "definition": {
+          "en": "publishing a planning application so anyone can comment or object.",
+          "he": "פרסום בקשה תכנונית כך שכל אחד יוכל להגיב או להתנגד."
+        }
+      },
+      {
+        "id": "vertical-agripv",
+        "term": {
+          "en": "Vertical AgriPV",
+          "he": "אגרו-וולטאי אנכי"
+        },
+        "definition": {
+          "en": "upright bifacial panels in rows, with farming in the strips between.",
+          "he": "פאנלים דו-פניים זקופים בשורות, עם חקלאות ברצועות שביניהן."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "solar-rooftop-plan-explained-simply",
     "topic": "people",
     "title": {
@@ -3203,6 +4348,84 @@
     "images": []
   },
   {
+    "id": "solar-targets-vs-connections-2026",
+    "topic": "industry",
+    "title": {
+      "en": "Targets against delivery",
+      "he": "יעדים מול ביצוע"
+    },
+    "excerpt": {
+      "en": "Israel plans to triple its renewable capacity by 2035. In 2026 it is connecting less solar than in any year since 2020, while rooftop homes boom.",
+      "he": "ישראל מתכננת לשלש את ההספק המתחדש עד 2035. ב-2026 היא מחברת פחות סולאר מבכל שנה מאז 2020, בזמן שהגגות הביתיים מזנקים."
+    },
+    "body": {
+      "en": [
+        "Israel’s solar story in 2026 is two numbers moving in opposite directions.",
+        "The ambition. In May 2026 the Energy Ministry published a draft national strategy aiming for about 26 GW of renewable capacity by 2035, up from roughly 8 GW at the end of 2025. Almost all of it would be solar. At a November conference the ministry’s director-general framed the near-term goals as 18% renewable electricity by the end of 2026 and about 10 GW of storage by 2030, with more than NIS 40 billion for the grid.",
+        "The delivery. On 11 November Calcalist reported Electricity Authority data showing only 612 MW of solar connected in the first nine months of 2026, with the year expected to end below 850 MW. That would be the weakest year since 2020, after a record 2025. Connection requests rose to 7,246 MW, but 54% of the requested capacity was refused, reportedly because of [[grid-congestion|grid limits]]. The Authority blames mainly war-related delays to high-voltage projects. The ministry calls the grid “the main barrier”. Renewables supplied about 16% of electricity in 2025; industry figures now expect the 30% target to slip from 2030 to around 2032.",
+        "The exception is the home roof. Small rooftop systems connected about 134 MW in nine months, according to the same report. Ministry figures show almost 5,000 household systems connected in the first half of 2026, up 37% on the year before, and more than 40,000 homes now generating. Owners are rushing to lock in current tariffs before they close to new entrants at the end of 2026.",
+        "The cities in between. The State Comptroller’s June 2026 audit found that about 60% of local authorities’ solar potential is in built-up areas, yet only about 15% of it had been realised by the end of 2023. The audit lists the reasons: no municipal targets, slow grant payments (about NIS 39 million of NIS 248 million paid by June 2025), and 80% of authorities outside the ministry’s support programme. Only one municipal energy corporation had been approved.",
+        "The pattern suggests the bottleneck is no longer panels or public interest. It is wires, permits and municipal capacity. SPFI will track connections by segment each quarter against the 2035 path."
+      ],
+      "he": [
+        "סיפור הסולאר הישראלי ב-2026 הוא שני מספרים שנעים לכיוונים הפוכים.",
+        "השאפה. במאי 2026 פרסם משרד האנרגיה טיוטת תוכנית אסטרטגית לאומית עם יעד של כ-26 ג'יגה-וואט אנרגיה מתחדשת עד 2035, לעומת כ-8 ג'יגה-וואט בסוף 2025. כמעט הכול סולארי. בכנס בנובמבר הציג מנכ\"ל המשרד יעדים קרובים: 18% חשמל מתחדש עד סוף 2026, כ-10 ג'יגה-וואט אגירה עד 2030, ויותר מ-40 מיליארד ש\"ח לרשת.",
+        "הביצוע. ב-11 בנובמבר דיווח כלכליסט על נתוני רשות החשמל: רק 612 מגה-וואט סולארי חוברו בתשעת החודשים הראשונים של 2026, והשנה צפויה להסתיים מתחת ל-850. זו תהיה השנה החלשה ביותר מאז 2020, אחרי שנת שיא ב-2025. בקשות החיבור עלו ל-7,246 מגה-וואט, אבל 54% מההספק המבוקש נדחה, לפי הדיווח בגלל [[grid-congestion|מגבלות רשת]]. רשות החשמל מייחסת את הירידה בעיקר לעיכובים במתקני מתח עליון בשל המלחמה. המשרד מכנה את הרשת “החסם המרכזי”. ב-2025 סיפקו המתחדשות כ-16% מהחשמל, ובענף מעריכים כי יעד 30% יידחה מ-2030 לסביבות 2032.",
+        "החריג הוא הגג הביתי. מערכות גג קטנות חוברו בהיקף של כ-134 מגה-וואט בתשעה חודשים, לפי אותו דיווח. לפי נתוני המשרד, כמעט 5,000 מערכות ביתיות חוברו במחצית הראשונה של 2026, עלייה של 37%, ויותר מ-40 אלף בתים כבר מייצרים חשמל. בעלי הבתים ממהרים לנעול את התעריפים הנוכחיים לפני שייסגרו למצטרפים חדשים בסוף 2026.",
+        "הערים שבאמצע. דוח מבקר המדינה מיוני 2026 מצא שכ-60% מהפוטנציאל הסולארי של הרשויות נמצא במרחב הבנוי, אבל רק כ-15% ממנו מומש עד סוף 2023. הדוח מפרט את הסיבות: אין יעדים לרשויות, המענקים משולמים לאט (כ-39 מיליון מתוך 248 מיליון ש\"ח עד יוני 2025), ו-80% מהרשויות אינן משתתפות בתוכנית התמיכה של המשרד. רק תאגיד אנרגיה עירוני אחד אושר.",
+        "התמונה מרמזת שצוואר הבקבוק כבר אינו הפאנלים או העניין הציבורי, אלא הקווים, ההיתרים והיכולת העירונית. SPFI יעקוב אחר החיבורים לפי מקטע בכל רבעון, מול מסלול 2035."
+      ]
+    },
+    "type": {
+      "en": "Data explainer",
+      "he": "הסבר נתונים"
+    },
+    "date": "2026-11-11",
+    "sources": [
+      {
+        "url": "https://www.calcalist.co.il/article/by11lekz0zl",
+        "name": "Daniel Shmil, Calcalist — solar connections in 2026 at a historic low (11 Nov 2026)"
+      },
+      {
+        "url": "https://library.mevaker.gov.il/sites/DigitalLibrary/Pages/Reports/10572-5.aspx",
+        "name": "State Comptroller — Solar energy systems in the urban space, local-government audit (Jun 2026)"
+      },
+      {
+        "url": "https://www.gov.il/BlobFolder/rfp/re-2035-200526/he/re-2035-may-2026-access.pdf",
+        "name": "Energy Ministry — National strategic plan for renewables to 2035, draft (May 2026, PDF)"
+      },
+      {
+        "url": "https://www.bizportal.co.il/energy/news/article/20042366",
+        "name": "Bizportal — 37% jump in household solar connections"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "connected-capacity",
+        "term": {
+          "en": "Connected capacity",
+          "he": "הספק מחובר"
+        },
+        "definition": {
+          "en": "systems physically linked to the grid and allowed to export, not just built or approved.",
+          "he": "מערכות שמחוברות פיזית לרשת ורשאיות להזרים, ולא רק כאלה שנבנו או אושרו."
+        }
+      },
+      {
+        "id": "grid-congestion",
+        "term": {
+          "en": "Grid congestion",
+          "he": "עומס ברשת"
+        },
+        "definition": {
+          "en": "a shortage of capacity on lines and substations to carry new generation.",
+          "he": "מחסור בקיבולת בקווים ובתחנות המשנה להעברת ייצור חדש."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
     "id": "space-solar-power-symposium-2026",
     "topic": "research",
     "title": {
@@ -3257,6 +4480,85 @@
         "definition": {
           "en": "Collecting solar energy in space and transmitting it for use elsewhere, including Earth.",
           "he": "איסוף אנרגיית שמש בחלל והעברתה לשימוש במקום אחר, לרבות כדור הארץ."
+        }
+      }
+    ],
+    "images": []
+  },
+  {
+    "id": "storage-policy-tama1-amendment",
+    "topic": "storage",
+    "title": {
+      "en": "Storage moves into planning",
+      "he": "האגירה נכנסת לתכנון"
+    },
+    "excerpt": {
+      "en": "Israel has about 600 MW of batteries and plans for roughly 9,000 MW by 2030. Two drafts this autumn decide where they can go and who is allowed to build them.",
+      "he": "לישראל כ-600 מגה-וואט של סוללות, ותוכנית לכ-9,000 מגה-וואט עד 2030. שתי טיוטות מהסתיו קובעות איפה הן יעמדו ומי רשאי להקים אותן."
+    },
+    "body": {
+      "en": [
+        "Solar panels produce most at midday. Israelis use most electricity in the evening. Batteries bridge that gap, and Israel now plans to build a lot of them. A draft national storage policy, published for comment in November 2026, says the country has about 600 MW of lithium-ion batteries next to solar fields, plus two [[pumped-storage|pumped-storage]] plants: Gilboa (300 MW) and Kochav HaYarden (344 MW). The Electricity Authority projects around 9,250 MW of storage, about 40,200 MWh, by 2030. At a November conference the Energy Ministry’s director-general put the target at about 10,000 MW.",
+        "Where batteries may stand. On 6 October the National Planning Council sent an amendment to the storage chapter of the national master plan ([[tama-1|TAMA 1]]) out for public objections. It would allow storage beside solar on reservoirs and fish ponds, even in protected landscape areas, subject to review, and would ease storage in industrial zones. It is not yet approved. Fire safety is a big cost driver. Lithium-ion batteries can overheat uncontrollably, and the Fire and Rescue Authority requires strict standards and large water reserves even in open farmland.",
+        "Who may build them. The ministry’s draft policy proposes replacing project-by-project quotas with national targets by voltage level and region, monitored over time. It also describes two practical routes for businesses and farms. In the [[limited-export-route|limited-export route]], a system up to 630 kW may export no more than 15 kW to the grid; the rest must be stored or used on site, with a 150% penalty tariff for excess export. In the self-consumption route, storage up to 8 MW is allowed if it never exports, sized at up to 20% of the existing connection.",
+        "Those routes matter most where the grid says no. The draft admits that distribution operators often refuse or delay low-voltage storage, sometimes for years, because they lack the software to manage it. A factory roof or a packhouse could use its own panels and battery without waiting for export capacity.",
+        "The open questions are spatial. Batteries are industrial objects with fences, cooling and fire roads. Placed beside a reservoir, a sports field or a village edge, they change the place. SPFI will look for where the final rules put them, and who gets to object."
+      ],
+      "he": [
+        "פאנלים סולאריים מייצרים הכי הרבה בצהריים, והצריכה הגבוהה היא בערב. סוללות מגשרות על הפער, וישראל מתכננת לבנות הרבה מהן. טיוטת מדיניות האגירה שפורסמה להערות בנובמבר 2026 מציינת כ-600 מגה-וואט של סוללות ליתיום-יון לצד שדות סולאריים, ושתי תחנות [[pumped-storage|אגירה שאובה]]: גלבוע (300 מגה-וואט) וכוכב הירדן (344 מגה-וואט). רשות החשמל צופה כ-9,250 מגה-וואט אגירה, כ-40,200 מגה-וואט-שעה, עד 2030. בכנס בנובמבר הציב מנכ\"ל משרד האנרגיה יעד של כ-10,000 מגה-וואט.",
+        "איפה יעמדו הסוללות. ב-6 באוקטובר העבירה המועצה הארצית לתכנון ולבנייה להערות והשגות שינוי בפרק מתקני האגירה ב[[tama-1|תמ\"א 1]]. השינוי יאפשר אגירה לצד מתקנים סולאריים במאגרים ובבריכות דגים, גם במכלולי נוף, בכפוף לבחינה, ויקל על אגירה באזורי תעשייה. הוא עדיין לא אושר. בטיחות אש היא מרכיב עלות מרכזי: סוללות ליתיום-יון עלולות להתחמם ללא שליטה, ורשות הכבאות מחייבת תקנים מחמירים ומאגרי מים גדולים גם בשטח חקלאי פתוח.",
+        "מי רשאי לבנות אותן. טיוטת המשרד מציעה להחליף מכסות פרויקטליות ביעדים לאומיים לפי מפלס מתח ואזור, עם מעקב שוטף. היא מתארת גם שני מסלולים מעשיים לעסקים ולמשקים. ב[[limited-export-route|מסלול הזרמה מוגבלת]], מתקן עד 630 קילוואט רשאי להזרים לרשת עד 15 קילוואט; השאר נאגר או נצרך במקום, והזרמה עודפת חייבת בתעריף קנס של 150%. במסלול צריכה עצמית, מותרת אגירה עד 8 מגה-וואט בלי הזרמה כלל, עד 20% מגודל החיבור הקיים.",
+        "המסלולים האלה חשובים במיוחד במקומות שבהם הרשת אומרת לא. הטיוטה מודה שמפעלי החלוקה מסרבים או מעכבים לעיתים קרובות אגירה במתח נמוך, לפעמים שנים, כי אין להם מערכות שליטה מתאימות. גג מפעל או בית אריזה יוכלו להשתמש בפאנלים ובסוללה שלהם בלי לחכות לקיבולת הזרמה.",
+        "השאלות הפתוחות הן מרחביות. סוללות הן מתקנים תעשייתיים עם גדרות, קירור ודרכי כיבוי אש. לצד מאגר, מגרש ספורט או שולי כפר, הן משנות את המקום. SPFI יבדוק איפה הכללים הסופיים מציבים אותן, ומי יוכל להתנגד."
+      ]
+    },
+    "type": {
+      "en": "Policy explainer",
+      "he": "הסבר מדיניות"
+    },
+    "date": "2026-11-12",
+    "sources": [
+      {
+        "url": "https://www.gov.il/BlobFolder/rfp/se-121126/he/energy-storage-121126.pdf",
+        "name": "Ministry of Energy and Infrastructure — Energy storage policy in Israel, version for public comment (Nov 2026, PDF)"
+      },
+      {
+        "url": "https://www.bizportal.co.il/energy/news/article/20044130",
+        "name": "Anat Gilad, Bizportal — the state eases storage siting: what will change (6 Oct 2026)"
+      }
+    ],
+    "glossary": [
+      {
+        "id": "pumped-storage",
+        "term": {
+          "en": "Pumped storage",
+          "he": "אגירה שאובה"
+        },
+        "definition": {
+          "en": "storing energy by pumping water uphill and releasing it through turbines.",
+          "he": "אגירת אנרגיה בשאיבת מים למעלה ושחרורם דרך טורבינות."
+        }
+      },
+      {
+        "id": "limited-export-route",
+        "term": {
+          "en": "Limited-export route",
+          "he": "מסלול הזרמה מוגבלת"
+        },
+        "definition": {
+          "en": "a proposed connection type that caps what a site may send to the grid.",
+          "he": "סוג חיבור מוצע שמגביל את הכמות שאתר רשאי להזרים לרשת."
+        }
+      },
+      {
+        "id": "tama-1",
+        "term": {
+          "en": "TAMA 1",
+          "he": "תמ\"א 1"
+        },
+        "definition": {
+          "en": "Israel’s consolidated national master plan for infrastructure.",
+          "he": "תוכנית המתאר הארצית המאוחדת לתשתיות בישראל."
         }
       }
     ],
