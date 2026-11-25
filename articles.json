@@ -337,6 +337,7 @@
       "en": "Technology explained",
       "he": "טכנולוגיה בגובה העיניים"
     },
+    "date": "2026-05-19",
     "sources": [
       {
         "url": "https://www.antora.com/insights/big-stone-release",
@@ -421,8 +422,8 @@
       ]
     },
     "type": {
-      "en": "Company announcement — SPFI adaptation",
-      "he": "הודעת חברה — עיבוד SPFI"
+      "en": "Announcement · SPFI adaptation",
+      "he": "הודעה · עיבוד SPFI"
     },
     "sources": [
       {
@@ -485,7 +486,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -570,7 +571,7 @@
     },
     "type": {
       "en": "Explainer",
-      "he": "הסבר"
+      "he": "כתבת הסבר"
     },
     "date": "2026-09-17",
     "sources": [
@@ -638,7 +639,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -810,8 +811,8 @@
       ]
     },
     "type": {
-      "en": "Buildings & research",
-      "he": "מבנים ומחקר"
+      "en": "Research explained",
+      "he": "מחקר בגובה העיניים"
     },
     "date": "2026-08-10",
     "sources": [
@@ -898,7 +899,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "date": "2026-08-25",
@@ -1064,6 +1065,7 @@
       "en": "Technology explained",
       "he": "טכנולוגיה בגובה העיניים"
     },
+    "date": "2026-02-03",
     "sources": [
       {
         "url": "https://www.cmblu.com/battery-system",
@@ -1144,8 +1146,8 @@
       ]
     },
     "type": {
-      "en": "People & research",
-      "he": "אנשים ומחקר"
+      "en": "Research explained",
+      "he": "מחקר בגובה העיניים"
     },
     "date": "2026-09-02",
     "sources": [
@@ -1228,9 +1230,10 @@
       ]
     },
     "type": {
-      "en": "Project announcement — SPFI adaptation",
-      "he": "הודעת פרויקט — עיבוד SPFI"
+      "en": "Announcement · SPFI adaptation",
+      "he": "הודעה · עיבוד SPFI"
     },
+    "date": "2026-06-24",
     "sources": [
       {
         "url": "https://www.firon.co.il/home/new-solar-power-plant-in-dimona/",
@@ -1303,7 +1306,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "date": "2026-05-22",
@@ -1601,6 +1604,7 @@
       "en": "Technology explained",
       "he": "טכנולוגיה בגובה העיניים"
     },
+    "date": "2026-08-13",
     "sources": [
       {
         "url": "https://www.forefrontpower.com/post/first-erthos-solar-energy-system-for-fresno",
@@ -1689,8 +1693,8 @@
       ]
     },
     "type": {
-      "en": "Practical explainer",
-      "he": "מדריך מעשי"
+      "en": "Guide",
+      "he": "מדריך"
     },
     "sources": [
       {
@@ -1771,8 +1775,8 @@
       ]
     },
     "type": {
-      "en": "Company announcement — SPFI adaptation",
-      "he": "הודעת חברה — עיבוד SPFI"
+      "en": "Announcement · SPFI adaptation",
+      "he": "הודעה · עיבוד SPFI"
     },
     "date": "2026-09-20",
     "sources": [
@@ -2006,7 +2010,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -2088,7 +2092,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -2166,7 +2170,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -2260,8 +2264,8 @@
       ]
     },
     "type": {
-      "en": "Explainer · Institution guide",
-      "he": "הסבר · מדריך מוסדות"
+      "en": "Guide",
+      "he": "מדריך"
     },
     "sources": [
       {
@@ -2518,8 +2522,8 @@
       ]
     },
     "type": {
-      "en": "Monthly data notebook",
-      "he": "מחברת נתונים חודשית"
+      "en": "Data explainer",
+      "he": "הסבר נתונים"
     },
     "sources": [
       {
@@ -2604,7 +2608,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -2690,8 +2694,8 @@
       ]
     },
     "type": {
-      "en": "Annual data report",
-      "he": "סקירת נתונים שנתית"
+      "en": "Data explainer",
+      "he": "הסבר נתונים"
     },
     "sources": [
       {
@@ -2857,6 +2861,7 @@
       "en": "Technology explained",
       "he": "טכנולוגיה בגובה העיניים"
     },
+    "date": "2014-03-21",
     "sources": [
       {
         "url": "https://www.ecoppia.com/media/press/?ContentID=38046",
@@ -3004,7 +3009,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "date": "2025-07-15",
@@ -3091,7 +3096,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "date": "2026-08-19",
@@ -3317,7 +3322,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "sources": [
@@ -3793,9 +3798,10 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
+    "date": "2022-10-18",
     "sources": [
       {
         "url": "https://www.kkl.org.il/about-us/news-archive/news-archive-2022/sun-for-everyone.aspx",
@@ -4041,6 +4047,7 @@
       "en": "Technology explained",
       "he": "טכנולוגיה בגובה העיניים"
     },
+    "date": "2026-06-22",
     "sources": [
       {
         "url": "https://www.solarpowereurope.org/insights/outlooks/global-solar-market-outlook-2026-2030",
@@ -4289,8 +4296,8 @@
       ]
     },
     "type": {
-      "en": "A simple explanation",
-      "he": "הסבר בגובה העיניים"
+      "en": "Explainer",
+      "he": "כתבת הסבר"
     },
     "sources": [
       {
@@ -4453,8 +4460,8 @@
       ]
     },
     "type": {
-      "en": "Event announcement — SPFI adaptation",
-      "he": "הודעת אירוע — עיבוד SPFI"
+      "en": "Announcement · SPFI adaptation",
+      "he": "הודעה · עיבוד SPFI"
     },
     "sources": [
       {
@@ -4595,6 +4602,7 @@
       "en": "Technology explained",
       "he": "טכנולוגיה בגובה העיניים"
     },
+    "date": "2026-06-09",
     "sources": [
       {
         "url": "https://www.trinasolar.com/en-glb/newsroom202606091645/",
@@ -4679,8 +4687,8 @@
       ]
     },
     "type": {
-      "en": "Market announcement — SPFI adaptation",
-      "he": "הודעת שוק — עיבוד SPFI"
+      "en": "Announcement · SPFI adaptation",
+      "he": "הודעה · עיבוד SPFI"
     },
     "date": "2026-09-16",
     "sources": [
@@ -4740,7 +4748,7 @@
       ]
     },
     "type": {
-      "en": "Reported explainer",
+      "en": "Explainer",
       "he": "כתבת הסבר"
     },
     "date": "2026-09-02",
